@@ -1391,4 +1391,8 @@ images:
     alt: "469396863_17975402189801078_8793240223636975317_n.jpg description"
     width: 1440
     height: 1800
+  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/uyntu.tr/image/469442178_382637438204760_9120233739469455347_n.jpg"
+    alt: "469442178_382637438204760_9120233739469455347_n.jpg description"
+    width: 1350
+    height: 1688
 ---
