@@ -11,10 +11,6 @@ images:
     alt: "101007531_2666427890127750_8155372607686244341_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/101029578_548055865892499_455416138072642185_n.jpg"
-    alt: "101029578_548055865892499_455416138072642185_n.jpg description"
-    width: 1440
-    height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/101043829_556551128392130_8166920647756272021_n.jpg"
     alt: "101043829_556551128392130_8166920647756272021_n.jpg description"
     width: 1241
@@ -171,18 +167,6 @@ images:
     alt: "110037792_570497993632264_1763655827837509443_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/110288139_2611763302473119_5249312684833565739_n.jpg"
-    alt: "110288139_2611763302473119_5249312684833565739_n.jpg description"
-    width: 1438
-    height: 1798
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/115927415_161317328850101_2701901954687257902_n.jpg"
-    alt: "115927415_161317328850101_2701901954687257902_n.jpg description"
-    width: 1440
-    height: 1440
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/115928901_2744297062509197_7838322056658397465_n.jpg"
-    alt: "115928901_2744297062509197_7838322056658397465_n.jpg description"
-    width: 1440
-    height: 1440
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/116942723_295378248208643_1349465359197753422_n.jpg"
     alt: "116942723_295378248208643_1349465359197753422_n.jpg description"
     width: 1364
@@ -1583,22 +1567,6 @@ images:
     alt: "317290927_658477162434998_2463618575150512621_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/318642206_1379563452853042_7072320150690067508_n.jpg"
-    alt: "318642206_1379563452853042_7072320150690067508_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/318682921_959470305437886_1534830788491243316_n.jpg"
-    alt: "318682921_959470305437886_1534830788491243316_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/318686463_5883760061681721_4456075482532119668_n.jpg"
-    alt: "318686463_5883760061681721_4456075482532119668_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/318772607_115591268056348_5954626673901505922_n.jpg"
-    alt: "318772607_115591268056348_5954626673901505922_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/318937241_1149562675673529_235686685634615576_n.jpg"
     alt: "318937241_1149562675673529_235686685634615576_n.jpg description"
     width: 1440
@@ -1631,26 +1599,6 @@ images:
     alt: "320254908_707885510732012_6467881773645840514_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/321984410_882260066145102_4474813187204733437_n.jpg"
-    alt: "321984410_882260066145102_4474813187204733437_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/322100258_528760719285802_1935114329500810145_n.jpg"
-    alt: "322100258_528760719285802_1935114329500810145_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/322526698_3320842744833406_5225263490460690710_n.jpg"
-    alt: "322526698_3320842744833406_5225263490460690710_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/322645316_119134351045236_2052552347408080284_n.jpg"
-    alt: "322645316_119134351045236_2052552347408080284_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/322760730_145039514759921_6405792644230882502_n.jpg"
-    alt: "322760730_145039514759921_6405792644230882502_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/323082864_484557717173771_4493958397946239487_n.jpg"
     alt: "323082864_484557717173771_4493958397946239487_n.jpg description"
     width: 1440
@@ -1667,204 +1615,12 @@ images:
     alt: "326688794_842690660167688_555755294889349444_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/327357127_1211362386411686_3323773334341824041_n.jpg"
-    alt: "327357127_1211362386411686_3323773334341824041_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/328067063_1611650752616103_5898457003980412736_n.jpg"
-    alt: "328067063_1611650752616103_5898457003980412736_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/328422444_3546075148974218_8172150401387461423_n.jpg"
-    alt: "328422444_3546075148974218_8172150401387461423_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/328832570_894817048612989_7347676317363219147_n.jpg"
-    alt: "328832570_894817048612989_7347676317363219147_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/329753023_126554123665697_3873889367967003160_n.jpg"
-    alt: "329753023_126554123665697_3873889367967003160_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/329994648_747281399922635_6388368340830772033_n.jpg"
-    alt: "329994648_747281399922635_6388368340830772033_n.jpg description"
-    width: 1440
-    height: 1525
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/329996408_166071209099613_6248078806432530992_n.jpg"
-    alt: "329996408_166071209099613_6248078806432530992_n.jpg description"
-    width: 1440
-    height: 1525
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/329999638_163003076499636_4318660772672213093_n.jpg"
     alt: "329999638_163003076499636_4318660772672213093_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/330163227_1397697764299138_1064778969247080125_n.jpg"
-    alt: "330163227_1397697764299138_1064778969247080125_n.jpg description"
-    width: 1440
-    height: 1525
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/330389907_740589060972220_175086384605591242_n.jpg"
-    alt: "330389907_740589060972220_175086384605591242_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/330407908_1214003922547197_439865775975279996_n.jpg"
-    alt: "330407908_1214003922547197_439865775975279996_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/330466028_161578786661313_5606857146673754513_n.jpg"
-    alt: "330466028_161578786661313_5606857146673754513_n.jpg description"
-    width: 1440
-    height: 1525
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/330645313_767384981106629_8269094288654015772_n.jpg"
-    alt: "330645313_767384981106629_8269094288654015772_n.jpg description"
-    width: 1440
-    height: 1525
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/330684814_1390452891703872_5634933342879501074_n.jpg"
     alt: "330684814_1390452891703872_5634933342879501074_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/330998374_629647512337075_1883053346176738313_n.jpg"
-    alt: "330998374_629647512337075_1883053346176738313_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/331162713_5885233218180867_475598360959004451_n.jpg"
-    alt: "331162713_5885233218180867_475598360959004451_n.jpg description"
-    width: 1440
-    height: 1695
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/331187532_871073913963806_393497914763087463_n.jpg"
-    alt: "331187532_871073913963806_393497914763087463_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/331299770_913481436506268_941701988952678611_n.jpg"
-    alt: "331299770_913481436506268_941701988952678611_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/331457625_1895119457535100_6700529509081621503_n.jpg"
-    alt: "331457625_1895119457535100_6700529509081621503_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/331726071_738535024347532_5651823439676289392_n.jpg"
-    alt: "331726071_738535024347532_5651823439676289392_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/331727108_5490994811005956_1532312805469309863_n.jpg"
-    alt: "331727108_5490994811005956_1532312805469309863_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/333192092_946903663137680_928440684485187301_n.jpg"
-    alt: "333192092_946903663137680_928440684485187301_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/333426692_9633471776678953_3049856150183616486_n.jpg"
-    alt: "333426692_9633471776678953_3049856150183616486_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/333443259_1388524015284257_1546536207668043777_n.jpg"
-    alt: "333443259_1388524015284257_1546536207668043777_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/333557678_149363491378246_1279576268880490181_n.jpg"
-    alt: "333557678_149363491378246_1279576268880490181_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/333955635_3277885145860032_2373848378174239640_n.jpg"
-    alt: "333955635_3277885145860032_2373848378174239640_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/334148570_753119243053984_3374919971455628761_n.jpg"
-    alt: "334148570_753119243053984_3374919971455628761_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/334235475_1617251585385383_3599861338047348526_n.jpg"
-    alt: "334235475_1617251585385383_3599861338047348526_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/335631428_578099257603760_8244154894281721385_n.jpg"
-    alt: "335631428_578099257603760_8244154894281721385_n.jpg description"
-    width: 1440
-    height: 1695
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/335777390_177763815011104_3936716523770692646_n.jpg"
-    alt: "335777390_177763815011104_3936716523770692646_n.jpg description"
-    width: 1440
-    height: 1695
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/336016870_596338645433842_2318821993358108490_n.jpg"
-    alt: "336016870_596338645433842_2318821993358108490_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/336292385_1187277241989418_3139790272697234115_n.jpg"
-    alt: "336292385_1187277241989418_3139790272697234115_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/336498175_3415079122082711_2597318281398330868_n.jpg"
-    alt: "336498175_3415079122082711_2597318281398330868_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/336500300_2101279776729054_4971553698727423718_n.jpg"
-    alt: "336500300_2101279776729054_4971553698727423718_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338173294_1015007236570347_7808439887573328205_n.jpg"
-    alt: "338173294_1015007236570347_7808439887573328205_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338197683_246996631120926_7555153588288030296_n.jpg"
-    alt: "338197683_246996631120926_7555153588288030296_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338225744_1892412411131071_5241581378588204996_n.jpg"
-    alt: "338225744_1892412411131071_5241581378588204996_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338253887_896936474895807_4409835895331228444_n.jpg"
-    alt: "338253887_896936474895807_4409835895331228444_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338257578_1610281889466540_5402141975182977058_n.jpg"
-    alt: "338257578_1610281889466540_5402141975182977058_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338285164_610379343942760_3535716417936921237_n.jpg"
-    alt: "338285164_610379343942760_3535716417936921237_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338289867_619621666167945_6691112989001354920_n.jpg"
-    alt: "338289867_619621666167945_6691112989001354920_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338417837_1245352802740092_5913593483943997129_n.jpg"
-    alt: "338417837_1245352802740092_5913593483943997129_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338446090_896590451627559_6061988547438640006_n.jpg"
-    alt: "338446090_896590451627559_6061988547438640006_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338462805_9244419638931659_7257858175037572128_n.jpg"
-    alt: "338462805_9244419638931659_7257858175037572128_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338596816_3550819078489430_4512975845146492094_n.jpg"
-    alt: "338596816_3550819078489430_4512975845146492094_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338625991_237350305335339_2714796556239565433_n.jpg"
-    alt: "338625991_237350305335339_2714796556239565433_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338662096_1475870362819991_8546941813012124572_n.jpg"
-    alt: "338662096_1475870362819991_8546941813012124572_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338909391_579083170851991_6241989633089711581_n.jpg"
-    alt: "338909391_579083170851991_6241989633089711581_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338925950_1661628590938037_4038340203861642456_n.jpg"
-    alt: "338925950_1661628590938037_4038340203861642456_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338936972_756057619361834_1365335687696137316_n.jpg"
-    alt: "338936972_756057619361834_1365335687696137316_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/338949937_165945815951511_247443153313022907_n.jpg"
@@ -2039,114 +1795,6 @@ images:
     alt: "344608441_3409158746029801_5388106012242352973_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/344778114_1267127564210216_7315296615103578193_n.jpg"
-    alt: "344778114_1267127564210216_7315296615103578193_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/344872784_1335343880359387_6746365012177882738_n.jpg"
-    alt: "344872784_1335343880359387_6746365012177882738_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/344873883_1380533129396481_8739922836319245399_n.jpg"
-    alt: "344873883_1380533129396481_8739922836319245399_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/345081834_629128272486223_3040865196675700933_n.jpg"
-    alt: "345081834_629128272486223_3040865196675700933_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/345094702_946811589791899_8084309524091589414_n.jpg"
-    alt: "345094702_946811589791899_8084309524091589414_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/345261173_957184712101179_1825175989110987363_n.jpg"
-    alt: "345261173_957184712101179_1825175989110987363_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/345415580_211845354976236_8546788378774327982_n.jpg"
-    alt: "345415580_211845354976236_8546788378774327982_n.jpg description"
-    width: 1440
-    height: 1487
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/345859146_1171224034278953_4673232787774520528_n.jpg"
-    alt: "345859146_1171224034278953_4673232787774520528_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/346015398_266380052447887_6977789097129328137_n.jpg"
-    alt: "346015398_266380052447887_6977789097129328137_n.jpg description"
-    width: 720
-    height: 899
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/346902940_790400799067750_2670759565341910430_n.jpg"
-    alt: "346902940_790400799067750_2670759565341910430_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/346930519_2475567825926218_7995739969927760108_n.jpg"
-    alt: "346930519_2475567825926218_7995739969927760108_n.jpg description"
-    width: 1440
-    height: 1683
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/347091532_769748074548953_4227943065385086682_n.jpg"
-    alt: "347091532_769748074548953_4227943065385086682_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/347093513_908955856844467_4488790495800574066_n.jpg"
-    alt: "347093513_908955856844467_4488790495800574066_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/347156865_631476965505247_3583781949108835049_n.jpg"
-    alt: "347156865_631476965505247_3583781949108835049_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/347234081_745813660606982_1104204112658009359_n.jpg"
-    alt: "347234081_745813660606982_1104204112658009359_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/347250798_1049186919297698_9073166324719468657_n.jpg"
-    alt: "347250798_1049186919297698_9073166324719468657_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/347259924_260387509700953_1703333956198458275_n.jpg"
-    alt: "347259924_260387509700953_1703333956198458275_n.jpg description"
-    width: 1440
-    height: 1683
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/347431179_934642957780008_2909938069508237432_n.jpg"
-    alt: "347431179_934642957780008_2909938069508237432_n.jpg description"
-    width: 1440
-    height: 1682
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/347881633_1431143114370805_8179230665412395999_n.jpg"
-    alt: "347881633_1431143114370805_8179230665412395999_n.jpg description"
-    width: 1440
-    height: 1683
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/348297102_593978159497831_3435697329568625107_n.jpg"
-    alt: "348297102_593978159497831_3435697329568625107_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/348967966_1270963407123709_3656400535693405917_n.jpg"
-    alt: "348967966_1270963407123709_3656400535693405917_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/349152161_880988216879330_2454496743929063696_n.jpg"
-    alt: "349152161_880988216879330_2454496743929063696_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/349224884_1000540774655369_6843446660489500052_n.jpg"
-    alt: "349224884_1000540774655369_6843446660489500052_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/349444259_765408495243353_8764935861905122529_n.jpg"
-    alt: "349444259_765408495243353_8764935861905122529_n.jpg description"
-    width: 1440
-    height: 1805
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/349477363_275621758248272_2475876540994315483_n.jpg"
-    alt: "349477363_275621758248272_2475876540994315483_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/350106477_808493260842851_549064907810224424_n.jpg"
-    alt: "350106477_808493260842851_549064907810224424_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/350146991_1623521531459452_3449342189709741932_n.jpg"
-    alt: "350146991_1623521531459452_3449342189709741932_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/350265587_236537419079086_6020572708691537006_n.jpg"
     alt: "350265587_236537419079086_6020572708691537006_n.jpg description"
     width: 1440
@@ -2291,10 +1939,6 @@ images:
     alt: "358791995_311181247907683_7911510874719579430_n.jpg description"
     width: 1440
     height: 1440
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/359036460_293296726590609_6703617214041091135_n.jpg"
-    alt: "359036460_293296726590609_6703617214041091135_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/359363882_942705206959610_4935350023848820703_n.jpg"
     alt: "359363882_942705206959610_4935350023848820703_n.jpg description"
     width: 1440
@@ -2307,14 +1951,6 @@ images:
     alt: "359458211_642201841175473_7713133230202368756_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/359537426_1013493139822114_7583850379118420546_n.jpg"
-    alt: "359537426_1013493139822114_7583850379118420546_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/359650069_2269464513441927_9090528685439742944_n.jpg"
-    alt: "359650069_2269464513441927_9090528685439742944_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/359686318_830463455281665_6907705871154575603_n.jpg"
     alt: "359686318_830463455281665_6907705871154575603_n.jpg description"
     width: 1440
@@ -2383,102 +2019,10 @@ images:
     alt: "361126745_260071003399563_3373359495935384111_n.jpg description"
     width: 1440
     height: 1643
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/361549697_6477181915728873_8600855809658573431_n.jpg"
-    alt: "361549697_6477181915728873_8600855809658573431_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/361707146_1230085507653691_7062180088290576418_n.jpg"
-    alt: "361707146_1230085507653691_7062180088290576418_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/361734793_200824705975776_242407237221187407_n.jpg"
-    alt: "361734793_200824705975776_242407237221187407_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/361905131_971295960739204_3723450082356886888_n.jpg"
-    alt: "361905131_971295960739204_3723450082356886888_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/361935445_225401847144262_220503173391772553_n.jpg"
-    alt: "361935445_225401847144262_220503173391772553_n.jpg description"
-    width: 640
-    height: 1136
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/362617748_3583423058645962_3199951822023055218_n.jpg"
-    alt: "362617748_3583423058645962_3199951822023055218_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/362633900_2897828687020854_5739566598102227437_n.jpg"
-    alt: "362633900_2897828687020854_5739566598102227437_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/362636111_833252884858017_3102707831988352556_n.jpg"
-    alt: "362636111_833252884858017_3102707831988352556_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/362643472_570053085327013_8069152737110323101_n.jpg"
-    alt: "362643472_570053085327013_8069152737110323101_n.jpg description"
-    width: 1440
-    height: 1946
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/362674290_1221562161840817_6873260884837140096_n.jpg"
-    alt: "362674290_1221562161840817_6873260884837140096_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/362741108_618804753389072_2030781682350311696_n.jpg"
-    alt: "362741108_618804753389072_2030781682350311696_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/362860592_1027069638330600_2641626431812556046_n.jpg"
-    alt: "362860592_1027069638330600_2641626431812556046_n.jpg description"
-    width: 1440
-    height: 1944
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/362888824_947778332969211_8088893482664960646_n.jpg"
-    alt: "362888824_947778332969211_8088893482664960646_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/362898713_1048989619399374_7039712023167360105_n.jpg"
-    alt: "362898713_1048989619399374_7039712023167360105_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/362940539_314087494310145_5574606515724186562_n.jpg"
-    alt: "362940539_314087494310145_5574606515724186562_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/362984503_256443507139820_385513421228057257_n.jpg"
-    alt: "362984503_256443507139820_385513421228057257_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/363027821_1425947348203406_4623344503338342019_n.jpg"
-    alt: "363027821_1425947348203406_4623344503338342019_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/363043793_6686178311446692_2684866294054382219_n.jpg"
-    alt: "363043793_6686178311446692_2684866294054382219_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/363329893_863476351889186_3295852693975042265_n.jpg"
-    alt: "363329893_863476351889186_3295852693975042265_n.jpg description"
-    width: 1266
-    height: 1080
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/363410587_1989017074808787_5725605266791484950_n.jpg"
-    alt: "363410587_1989017074808787_5725605266791484950_n.jpg description"
-    width: 1440
-    height: 1944
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/363490559_795007665603633_9081433921202637704_n.jpg"
-    alt: "363490559_795007665603633_9081433921202637704_n.jpg description"
-    width: 1440
-    height: 1933
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/363517671_889316692543900_6596958790079027930_n.jpg"
     alt: "363517671_889316692543900_6596958790079027930_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/363776715_3150197808617447_4767604954063757931_n.jpg"
-    alt: "363776715_3150197808617447_4767604954063757931_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/364220152_1439563076827159_2195051235832088383_n.jpg"
-    alt: "364220152_1439563076827159_2195051235832088383_n.jpg description"
-    width: 958
-    height: 960
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/364264364_846881580394052_5210201017075382870_n.jpg"
     alt: "364264364_846881580394052_5210201017075382870_n.jpg description"
     width: 1440
@@ -2511,86 +2055,26 @@ images:
     alt: "365302333_950595056015647_7546354112987593603_n.jpg description"
     width: 1440
     height: 2560
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366138071_1768282050294539_7979817773356344615_n.jpg"
-    alt: "366138071_1768282050294539_7979817773356344615_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366160456_781344920345581_2407672283367162571_n.jpg"
     alt: "366160456_781344920345581_2407672283367162571_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366417917_194484893432009_2110412429677771682_n.jpg"
-    alt: "366417917_194484893432009_2110412429677771682_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366418612_3490300791243203_4538391683971792715_n.jpg"
     alt: "366418612_3490300791243203_4538391683971792715_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366419854_664024508969440_6697842874117875503_n.jpg"
-    alt: "366419854_664024508969440_6697842874117875503_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366426429_5707083619393931_868839572784847993_n.jpg"
-    alt: "366426429_5707083619393931_868839572784847993_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366428230_852241683233304_4300160609115376413_n.jpg"
-    alt: "366428230_852241683233304_4300160609115376413_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366433349_270845845800810_2087405410577812818_n.jpg"
     alt: "366433349_270845845800810_2087405410577812818_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366441037_2419389624905551_3084249247686909148_n.jpg"
-    alt: "366441037_2419389624905551_3084249247686909148_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366454147_518619153772754_8596547763974926149_n.jpg"
-    alt: "366454147_518619153772754_8596547763974926149_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366487792_1655092974993571_4577258850171894044_n.jpg"
-    alt: "366487792_1655092974993571_4577258850171894044_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366517429_2488639367963126_2699142541293454654_n.jpg"
-    alt: "366517429_2488639367963126_2699142541293454654_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366539581_842812420846684_2193783085545840994_n.jpg"
-    alt: "366539581_842812420846684_2193783085545840994_n.jpg description"
-    width: 720
-    height: 900
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366542442_982300789479928_7212878361410110422_n.jpg"
-    alt: "366542442_982300789479928_7212878361410110422_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366590468_214988061206157_8932546360793247304_n.jpg"
-    alt: "366590468_214988061206157_8932546360793247304_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366593301_2162335040824498_332652952030482255_n.jpg"
     alt: "366593301_2162335040824498_332652952030482255_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366946985_968605407741511_3502415529702464686_n.jpg"
-    alt: "366946985_968605407741511_3502415529702464686_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366962944_1773189189793023_1549505705752245770_n.jpg"
     alt: "366962944_1773189189793023_1549505705752245770_n.jpg description"
     width: 1440
     height: 1656
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/366986262_6459528977487519_6367097216092411611_n.jpg"
-    alt: "366986262_6459528977487519_6367097216092411611_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/367362011_1577491453079493_1801398280233623908_n.jpg"
-    alt: "367362011_1577491453079493_1801398280233623908_n.jpg description"
-    width: 1440
-    height: 964
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/367396146_245119095098138_1619786712255581782_n.jpg"
     alt: "367396146_245119095098138_1619786712255581782_n.jpg description"
     width: 1440
@@ -2615,102 +2099,10 @@ images:
     alt: "367966272_257010323874761_7786336546003904948_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/368133921_957362495349886_2860607965118687857_n.jpg"
-    alt: "368133921_957362495349886_2860607965118687857_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/368192144_3092704607703254_5510464732192869091_n.jpg"
     alt: "368192144_3092704607703254_5510464732192869091_n.jpg description"
     width: 1365
     height: 2048
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/368558501_813807850403883_7152464553526910293_n.jpg"
-    alt: "368558501_813807850403883_7152464553526910293_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/368558983_750936710171404_5442487622087724981_n.jpg"
-    alt: "368558983_750936710171404_5442487622087724981_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/368564081_1014144079716566_6478476655182635701_n.jpg"
-    alt: "368564081_1014144079716566_6478476655182635701_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/368747891_2656681327821812_3659079663290973355_n.jpg"
-    alt: "368747891_2656681327821812_3659079663290973355_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/368870529_285860407390789_5038258249260128718_n.jpg"
-    alt: "368870529_285860407390789_5038258249260128718_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/369077856_998648841413496_8575886675696715795_n.jpg"
-    alt: "369077856_998648841413496_8575886675696715795_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/369232709_670642761363820_6553846644305550441_n.jpg"
-    alt: "369232709_670642761363820_6553846644305550441_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/369292463_818561333055968_5108399683693835705_n.jpg"
-    alt: "369292463_818561333055968_5108399683693835705_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/369502262_685299493154993_7611810220808645353_n.jpg"
-    alt: "369502262_685299493154993_7611810220808645353_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/369550287_3458223431161306_2632981322615233950_n.jpg"
-    alt: "369550287_3458223431161306_2632981322615233950_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/369738246_1019262742535853_6034257065297823856_n.jpg"
-    alt: "369738246_1019262742535853_6034257065297823856_n.jpg description"
-    width: 640
-    height: 1136
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/370605002_266118509568097_4260629033783861463_n.jpg"
-    alt: "370605002_266118509568097_4260629033783861463_n.jpg description"
-    width: 1440
-    height: 2161
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/370629496_259186583670353_2574157947313033110_n.jpg"
-    alt: "370629496_259186583670353_2574157947313033110_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/370833220_1241335656566656_3852182667798341439_n.jpg"
-    alt: "370833220_1241335656566656_3852182667798341439_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/370900639_1022864682057747_5387186801452730453_n.jpg"
-    alt: "370900639_1022864682057747_5387186801452730453_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/370919939_849720056812655_8747438984587746818_n.jpg"
-    alt: "370919939_849720056812655_8747438984587746818_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/370981701_990661045582113_8304806326644667448_n.jpg"
-    alt: "370981701_990661045582113_8304806326644667448_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/371000311_812275207296453_7746066675147298529_n.jpg"
-    alt: "371000311_812275207296453_7746066675147298529_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/371017060_266142422899980_4914123812032685986_n.jpg"
-    alt: "371017060_266142422899980_4914123812032685986_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/371059632_669166558601326_6403391219868566080_n.jpg"
-    alt: "371059632_669166558601326_6403391219868566080_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/371178345_154197354391244_4179490537109959923_n.jpg"
-    alt: "371178345_154197354391244_4179490537109959923_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/371199661_23997283826529493_6843100276750452662_n.jpg"
-    alt: "371199661_23997283826529493_6843100276750452662_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/371507191_1158111328478418_1078344286787636954_n.jpg"
     alt: "371507191_1158111328478418_1078344286787636954_n.jpg description"
     width: 720
@@ -2739,38 +2131,6 @@ images:
     alt: "373320809_1723500204753928_3860323731287496019_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/373380883_259735163560825_6897902621208067297_n.jpg"
-    alt: "373380883_259735163560825_6897902621208067297_n.jpg description"
-    width: 1440
-    height: 1947
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/373388180_849029993239981_8727160307402870406_n.jpg"
-    alt: "373388180_849029993239981_8727160307402870406_n.jpg description"
-    width: 1440
-    height: 1963
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/373400690_1802731623532775_6242721918153977419_n.jpg"
-    alt: "373400690_1802731623532775_6242721918153977419_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/373693001_247380697732763_2578412064832072281_n.jpg"
-    alt: "373693001_247380697732763_2578412064832072281_n.jpg description"
-    width: 1440
-    height: 1718
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/373725598_209023335494828_2461083607858487284_n.jpg"
-    alt: "373725598_209023335494828_2461083607858487284_n.jpg description"
-    width: 1440
-    height: 1718
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/373749230_1011005160039522_2313904449096351740_n.jpg"
-    alt: "373749230_1011005160039522_2313904449096351740_n.jpg description"
-    width: 1440
-    height: 1710
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/374170558_304638605548932_5914413892412511539_n.jpg"
-    alt: "374170558_304638605548932_5914413892412511539_n.jpg description"
-    width: 1440
-    height: 1718
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/374202510_1327209618189254_343701320423019215_n.jpg"
-    alt: "374202510_1327209618189254_343701320423019215_n.jpg description"
-    width: 1440
-    height: 1718
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/374242847_314519451247022_5786392998291849062_n.jpg"
     alt: "374242847_314519451247022_5786392998291849062_n.jpg description"
     width: 1440
@@ -2783,34 +2143,10 @@ images:
     alt: "374524853_1020156902732575_5242327076033143644_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/374527173_291854816816123_2955922050061112179_n.jpg"
-    alt: "374527173_291854816816123_2955922050061112179_n.jpg description"
-    width: 1440
-    height: 1948
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/374611965_1007567657227399_9158684786249699289_n.jpg"
-    alt: "374611965_1007567657227399_9158684786249699289_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/374649674_2108947226108715_6635517607063537399_n.jpg"
-    alt: "374649674_2108947226108715_6635517607063537399_n.jpg description"
-    width: 1440
-    height: 1718
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/375030766_558196546402482_3247793273225221327_n.jpg"
-    alt: "375030766_558196546402482_3247793273225221327_n.jpg description"
-    width: 1440
-    height: 1718
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/375045660_1506796270065596_8917170184878747444_n.jpg"
-    alt: "375045660_1506796270065596_8917170184878747444_n.jpg description"
-    width: 1440
-    height: 1718
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/375271143_852636263096346_7412284879337639812_n.jpg"
     alt: "375271143_852636263096346_7412284879337639812_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/375324296_1066195684758554_5758371538905147259_n.jpg"
-    alt: "375324296_1066195684758554_5758371538905147259_n.jpg description"
-    width: 1440
-    height: 1718
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/375380064_3710147762552861_913504648073703166_n.jpg"
     alt: "375380064_3710147762552861_913504648073703166_n.jpg description"
     width: 1440
@@ -2823,10 +2159,6 @@ images:
     alt: "375603398_1299586700930148_6888500824077694587_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/375836884_325133323231277_4571971679128746918_n.jpg"
-    alt: "375836884_325133323231277_4571971679128746918_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/375849969_1658939717945241_6888524367305376853_n.jpg"
     alt: "375849969_1658939717945241_6888524367305376853_n.jpg description"
     width: 1440
@@ -2851,10 +2183,6 @@ images:
     alt: "376779805_3563524990630750_7817477023291243128_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/376832574_1351130762486444_7248651414052353839_n.jpg"
-    alt: "376832574_1351130762486444_7248651414052353839_n.jpg description"
-    width: 1440
-    height: 1941
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/376859286_1508441059727505_2175082281144418447_n.jpg"
     alt: "376859286_1508441059727505_2175082281144418447_n.jpg description"
     width: 2160
@@ -2863,46 +2191,6 @@ images:
     alt: "376928641_678319677678679_6531771967159214706_n.jpg description"
     width: 1440
     height: 1440
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/377330785_2567792813380110_6598089360902380295_n.jpg"
-    alt: "377330785_2567792813380110_6598089360902380295_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/377405134_274182322172055_4407609072992885360_n.jpg"
-    alt: "377405134_274182322172055_4407609072992885360_n.jpg description"
-    width: 1440
-    height: 1940
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/377575842_854439739370602_3826368358842423838_n.jpg"
-    alt: "377575842_854439739370602_3826368358842423838_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/378006668_2251146145076685_829685529622420_n.jpg"
-    alt: "378006668_2251146145076685_829685529622420_n.jpg description"
-    width: 1440
-    height: 1789
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/378044651_1374259149836762_342221684982737411_n.jpg"
-    alt: "378044651_1374259149836762_342221684982737411_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/378056514_716947860225913_1703749341594808004_n.jpg"
-    alt: "378056514_716947860225913_1703749341594808004_n.jpg description"
-    width: 1440
-    height: 1791
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/378071459_1468333670625893_3401485836957938389_n.jpg"
-    alt: "378071459_1468333670625893_3401485836957938389_n.jpg description"
-    width: 720
-    height: 1280
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/378585468_3097032267272857_4839114774560132740_n.jpg"
-    alt: "378585468_3097032267272857_4839114774560132740_n.jpg description"
-    width: 1440
-    height: 1925
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/378834045_857466528805885_8407912450205520992_n.jpg"
-    alt: "378834045_857466528805885_8407912450205520992_n.jpg description"
-    width: 1440
-    height: 1080
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/378929193_683764863654240_3388210448992709967_n.jpg"
-    alt: "378929193_683764863654240_3388210448992709967_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/379576724_687392519941977_1098725461926795760_n.jpg"
     alt: "379576724_687392519941977_1098725461926795760_n.jpg description"
     width: 1440
@@ -2911,10 +2199,6 @@ images:
     alt: "379752815_851452429697122_2891325089230409707_n.jpg description"
     width: 1440
     height: 1440
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/379951143_1255258611825103_7052131737180890357_n.jpg"
-    alt: "379951143_1255258611825103_7052131737180890357_n.jpg description"
-    width: 1440
-    height: 1080
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/379982032_1006725130659155_9038818212912046133_n.jpg"
     alt: "379982032_1006725130659155_9038818212912046133_n.jpg description"
     width: 1440
@@ -2923,32 +2207,16 @@ images:
     alt: "380184238_150325578147091_4648886936962292285_n.jpg description"
     width: 1440
     height: 1440
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/380297984_318812800801595_2221815431844540566_n.jpg"
-    alt: "380297984_318812800801595_2221815431844540566_n.jpg description"
-    width: 1440
-    height: 1440
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/380445096_990700332261252_379585345186291467_n.jpg"
     alt: "380445096_990700332261252_379585345186291467_n.jpg description"
     width: 1440
     height: 1440
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/380552527_2307675489441715_5933493610116329177_n.jpg"
-    alt: "380552527_2307675489441715_5933493610116329177_n.jpg description"
-    width: 1440
-    height: 1440
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/380775478_2043911442629858_8435265175573402105_n.jpg"
-    alt: "380775478_2043911442629858_8435265175573402105_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/381287246_681914723578620_6409300848845455555_n.jpg"
     alt: "381287246_681914723578620_6409300848845455555_n.jpg description"
     width: 1440
     height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/382353160_850499726482063_5895787104582136888_n.jpg"
     alt: "382353160_850499726482063_5895787104582136888_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/382528664_884558923243559_531192539749120050_n.jpg"
-    alt: "382528664_884558923243559_531192539749120050_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/382821579_839965977569129_8405495910889372665_n.jpg"
@@ -2975,10 +2243,6 @@ images:
     alt: "383961042_701615041329011_5558711075898065178_n.jpg description"
     width: 1440
     height: 2560
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/384027781_1059215018760570_8328095425902171245_n.jpg"
-    alt: "384027781_1059215018760570_8328095425902171245_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/384085607_894723378677494_1208335748671796247_n.jpg"
     alt: "384085607_894723378677494_1208335748671796247_n.jpg description"
     width: 1440
@@ -2987,10 +2251,6 @@ images:
     alt: "384121198_1364542417473994_6592580524260060591_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/384205605_609329481414736_7068406450035829614_n.jpg"
-    alt: "384205605_609329481414736_7068406450035829614_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/384215958_2229441693914045_8121868392013134067_n.jpg"
     alt: "384215958_2229441693914045_8121868392013134067_n.jpg description"
     width: 1440
@@ -3071,14 +2331,6 @@ images:
     alt: "387259886_3450368861960046_2443405046817646611_n.jpg description"
     width: 1440
     height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/387267571_990104742095453_3221444266292122628_n.jpg"
-    alt: "387267571_990104742095453_3221444266292122628_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/387268067_868857854805377_7457724006973327157_n.jpg"
-    alt: "387268067_868857854805377_7457724006973327157_n.jpg description"
-    width: 1440
-    height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/387741667_344514481361432_2028738418218196984_n.jpg"
     alt: "387741667_344514481361432_2028738418218196984_n.jpg description"
     width: 1440
@@ -3099,22 +2351,10 @@ images:
     alt: "391264955_306313315455480_6163771871354980105_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/393565054_1668661466978501_1952177548576483712_n.jpg"
-    alt: "393565054_1668661466978501_1952177548576483712_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/394030972_1711475402702245_839299676688451906_n.jpg"
     alt: "394030972_1711475402702245_839299676688451906_n.jpg description"
     width: 1440
     height: 2015
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/394276496_24657413787179317_6730272544554276203_n.jpg"
-    alt: "394276496_24657413787179317_6730272544554276203_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/394728625_3420995194784641_8250813022770961391_n.jpg"
-    alt: "394728625_3420995194784641_8250813022770961391_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/394740072_188097234340080_6699259107760588243_n.jpg"
     alt: "394740072_188097234340080_6699259107760588243_n.jpg description"
     width: 1440
@@ -3147,26 +2387,6 @@ images:
     alt: "398687304_1022072252461181_6043744515229598757_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/398990984_308637985294879_1515639563364724098_n.jpg"
-    alt: "398990984_308637985294879_1515639563364724098_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399236898_852170876616382_8433147417607595853_n.jpg"
-    alt: "399236898_852170876616382_8433147417607595853_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399369127_1011675570057231_6590663885786695643_n.jpg"
-    alt: "399369127_1011675570057231_6590663885786695643_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399380766_358383033307326_2284695262491730345_n.jpg"
-    alt: "399380766_358383033307326_2284695262491730345_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399394515_1869301673464804_5152033301992745097_n.jpg"
-    alt: "399394515_1869301673464804_5152033301992745097_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399474477_232602382986250_140828655123601349_n.jpg"
     alt: "399474477_232602382986250_140828655123601349_n.jpg description"
     width: 1440
@@ -3175,34 +2395,10 @@ images:
     alt: "399478209_880463873163751_8823182699292451074_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399520599_207461488969303_8225928192089791645_n.jpg"
-    alt: "399520599_207461488969303_8225928192089791645_n.jpg description"
-    width: 2268
-    height: 4032
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399533387_836382684939477_2572077857229215319_n.jpg"
-    alt: "399533387_836382684939477_2572077857229215319_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399577345_326021966711161_3840335674605986857_n.jpg"
     alt: "399577345_326021966711161_3840335674605986857_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399594556_885272076490620_5487937679675133985_n.jpg"
-    alt: "399594556_885272076490620_5487937679675133985_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399637309_2208032989392333_5002772599112345815_n.jpg"
-    alt: "399637309_2208032989392333_5002772599112345815_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399643441_714082147421987_6513269608071658466_n.jpg"
-    alt: "399643441_714082147421987_6513269608071658466_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399651701_1523521558406876_8796222424412295894_n.jpg"
-    alt: "399651701_1523521558406876_8796222424412295894_n.jpg description"
-    width: 1440
-    height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/399797433_221838284258821_9036413299062921973_n.jpg"
     alt: "399797433_221838284258821_9036413299062921973_n.jpg description"
     width: 1440
@@ -3255,20 +2451,8 @@ images:
     alt: "402125147_178109105373976_7127929833100589843_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/402238689_347254507950455_5821634846447289822_n.jpg"
-    alt: "402238689_347254507950455_5821634846447289822_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/402242114_884962963206462_4887970993171733939_n.jpg"
-    alt: "402242114_884962963206462_4887970993171733939_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/402327640_6633993063366011_1803445299988857262_n.jpg"
     alt: "402327640_6633993063366011_1803445299988857262_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/402461237_361363816364577_8556736986945164026_n.jpg"
-    alt: "402461237_361363816364577_8556736986945164026_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/402502191_1318366185479028_4891768046042626370_n.jpg"
@@ -3287,62 +2471,6 @@ images:
     alt: "402828351_880214493711652_3499795071638883815_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/402862168_1377142979861173_5109029337681266046_n.jpg"
-    alt: "402862168_1377142979861173_5109029337681266046_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/402925526_876980810678490_805361972032381340_n.jpg"
-    alt: "402925526_876980810678490_805361972032381340_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/402983787_885478309316912_2998777381131407040_n.jpg"
-    alt: "402983787_885478309316912_2998777381131407040_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/403042120_367570355827997_1394373210106916851_n.jpg"
-    alt: "403042120_367570355827997_1394373210106916851_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/403183262_3587644304887796_7318105495470730377_n.jpg"
-    alt: "403183262_3587644304887796_7318105495470730377_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/403287131_891272249254565_5834905307797720551_n.jpg"
-    alt: "403287131_891272249254565_5834905307797720551_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/403388723_1101558491207768_1348150877299213431_n.jpg"
-    alt: "403388723_1101558491207768_1348150877299213431_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/403731621_1499077814268218_4097023108434400971_n.jpg"
-    alt: "403731621_1499077814268218_4097023108434400971_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/403767092_874276410673863_1579775433435004175_n.jpg"
-    alt: "403767092_874276410673863_1579775433435004175_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/403826677_1046406739741540_962319222728721420_n.jpg"
-    alt: "403826677_1046406739741540_962319222728721420_n.jpg description"
-    width: 720
-    height: 1280
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/403843944_1132166077766196_2975513849763245656_n.jpg"
-    alt: "403843944_1132166077766196_2975513849763245656_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/403855760_330164929923642_1542421467849268162_n.jpg"
-    alt: "403855760_330164929923642_1542421467849268162_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/403960341_279222198450391_8582003787457578061_n.jpg"
-    alt: "403960341_279222198450391_8582003787457578061_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/404269469_3653245354995547_7937526267159986231_n.jpg"
-    alt: "404269469_3653245354995547_7937526267159986231_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/404585651_1417640658785055_8971975792266689606_n.jpg"
     alt: "404585651_1417640658785055_8971975792266689606_n.jpg description"
     width: 1440
@@ -3367,18 +2495,6 @@ images:
     alt: "404962902_859617975806042_1569742606424418268_n.jpg description"
     width: 1440
     height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/405265452_1077815623690765_3718957955229381194_n.jpg"
-    alt: "405265452_1077815623690765_3718957955229381194_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/405501675_730407662319514_7546284001153306674_n.jpg"
-    alt: "405501675_730407662319514_7546284001153306674_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/407175989_3266800073465977_2239311659901812233_n.jpg"
-    alt: "407175989_3266800073465977_2239311659901812233_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/408493660_1106669020747031_6607270400495320048_n.jpg"
     alt: "408493660_1106669020747031_6607270400495320048_n.jpg description"
     width: 1440
@@ -3395,18 +2511,6 @@ images:
     alt: "409079741_2614913188683597_2300553791304568312_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/409637357_256754650740722_4609097139103620446_n.jpg"
-    alt: "409637357_256754650740722_4609097139103620446_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/410368714_1006278400458048_4603454941778756140_n.jpg"
-    alt: "410368714_1006278400458048_4603454941778756140_n.jpg description"
-    width: 720
-    height: 1280
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/411790914_338710195640632_7391815815075649464_n.jpg"
-    alt: "411790914_338710195640632_7391815815075649464_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/411871658_2061076184252546_3978144829323827130_n.jpg"
     alt: "411871658_2061076184252546_3978144829323827130_n.jpg description"
     width: 1440
@@ -3431,10 +2535,6 @@ images:
     alt: "412413034_7377788245606716_4553573541069620653_n.jpg description"
     width: 1440
     height: 2560
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412510840_1057851122033374_2337972258964340905_n.jpg"
-    alt: "412510840_1057851122033374_2337972258964340905_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412517213_744923576994016_267475091388056017_n.jpg"
     alt: "412517213_744923576994016_267475091388056017_n.jpg description"
     width: 1440
@@ -3443,298 +2543,10 @@ images:
     alt: "412551862_3198480507119941_2874849026977756457_n.jpg description"
     width: 1440
     height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412569354_390280270018360_8806593304153714315_n.jpg"
-    alt: "412569354_390280270018360_8806593304153714315_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412590534_1040633050484158_3527271976972740387_n.jpg"
     alt: "412590534_1040633050484158_3527271976972740387_n.jpg description"
     width: 1080
     height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412591295_1461711387711290_8479037465268469937_n.jpg"
-    alt: "412591295_1461711387711290_8479037465268469937_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412607818_3084657595004652_4126562065927597084_n.jpg"
-    alt: "412607818_3084657595004652_4126562065927597084_n.jpg description"
-    width: 1080
-    height: 1350
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412623791_333244609555738_2855828863758581165_n.jpg"
-    alt: "412623791_333244609555738_2855828863758581165_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412677451_627839816051543_5941091774687425995_n.jpg"
-    alt: "412677451_627839816051543_5941091774687425995_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412725595_370586892321049_5709569827195373382_n.jpg"
-    alt: "412725595_370586892321049_5709569827195373382_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412738982_2388945321306998_7526946451501480092_n.jpg"
-    alt: "412738982_2388945321306998_7526946451501480092_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412761245_270858739330871_5993030521699653561_n.jpg"
-    alt: "412761245_270858739330871_5993030521699653561_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412766285_332503083003441_8856189002980384930_n.jpg"
-    alt: "412766285_332503083003441_8856189002980384930_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/412770393_175683768941093_2988946745961793105_n.jpg"
-    alt: "412770393_175683768941093_2988946745961793105_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413218422_374331745250168_1062575986153033747_n.jpg"
-    alt: "413218422_374331745250168_1062575986153033747_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413231440_1727881624400281_6883435568097932577_n.jpg"
-    alt: "413231440_1727881624400281_6883435568097932577_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413261321_326202820227474_6063459620953333960_n.jpg"
-    alt: "413261321_326202820227474_6063459620953333960_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413289894_875270347481010_7188311364517201161_n.jpg"
-    alt: "413289894_875270347481010_7188311364517201161_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413384945_2592773814263066_6670049934116978044_n.jpg"
-    alt: "413384945_2592773814263066_6670049934116978044_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413390178_340141495460906_5595822624441411257_n.jpg"
-    alt: "413390178_340141495460906_5595822624441411257_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413428948_24901273249471174_7193009711459391867_n.jpg"
-    alt: "413428948_24901273249471174_7193009711459391867_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413445556_683196300332684_1197359574059820088_n.jpg"
-    alt: "413445556_683196300332684_1197359574059820088_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413447434_3604054476504219_6825766331414550542_n.jpg"
-    alt: "413447434_3604054476504219_6825766331414550542_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413453956_3664355760491858_5496707960253256782_n.jpg"
-    alt: "413453956_3664355760491858_5496707960253256782_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413466071_919358916202780_2804717408752675587_n.jpg"
-    alt: "413466071_919358916202780_2804717408752675587_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413473466_268898222571239_2016932183020621809_n.jpg"
-    alt: "413473466_268898222571239_2016932183020621809_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413858755_381909674206092_6691402480680632642_n.jpg"
-    alt: "413858755_381909674206092_6691402480680632642_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413871597_3178479199122122_2025536954976610837_n.jpg"
-    alt: "413871597_3178479199122122_2025536954976610837_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413913480_1594294197776627_1142924770204079530_n.jpg"
-    alt: "413913480_1594294197776627_1142924770204079530_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413918997_5321609831296491_6271237137681066755_n.jpg"
-    alt: "413918997_5321609831296491_6271237137681066755_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413919177_934889871394025_1328779320409712224_n.jpg"
-    alt: "413919177_934889871394025_1328779320409712224_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413932630_2617510728411299_6593548088519515962_n.jpg"
-    alt: "413932630_2617510728411299_6593548088519515962_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413948039_1065057234548291_6783281093642883821_n.jpg"
-    alt: "413948039_1065057234548291_6783281093642883821_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413957829_685818536871517_8616395657883067873_n.jpg"
-    alt: "413957829_685818536871517_8616395657883067873_n.jpg description"
-    width: 1440
-    height: 1938
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/413992646_1771952356649630_2805620295274641617_n.jpg"
-    alt: "413992646_1771952356649630_2805620295274641617_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/414187415_383130284193545_3491915802453244839_n.jpg"
-    alt: "414187415_383130284193545_3491915802453244839_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/414190117_325697356960399_3527857042748165467_n.jpg"
-    alt: "414190117_325697356960399_3527857042748165467_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/414470594_685768150350487_7349888471155667426_n.jpg"
-    alt: "414470594_685768150350487_7349888471155667426_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/414698474_226260557188778_1188105204025659701_n.jpg"
-    alt: "414698474_226260557188778_1188105204025659701_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/414709777_890373372666184_4931024606259576406_n.jpg"
-    alt: "414709777_890373372666184_4931024606259576406_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/414720700_877911504114716_7924278036087956754_n.jpg"
-    alt: "414720700_877911504114716_7924278036087956754_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/414727327_1039797167275524_5877541469210319147_n.jpg"
-    alt: "414727327_1039797167275524_5877541469210319147_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/415961489_1025840232033419_2313487211893758835_n.jpg"
-    alt: "415961489_1025840232033419_2313487211893758835_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416020934_1177670453208110_1692074272957524486_n.jpg"
-    alt: "416020934_1177670453208110_1692074272957524486_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416090364_736704491739782_8658190557746552483_n.jpg"
-    alt: "416090364_736704491739782_8658190557746552483_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416370438_750100036628503_4357530133675281795_n.jpg"
-    alt: "416370438_750100036628503_4357530133675281795_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416434736_895685148848150_6838636967423709086_n.jpg"
-    alt: "416434736_895685148848150_6838636967423709086_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416489583_335028005968724_7826706597762640487_n.jpg"
-    alt: "416489583_335028005968724_7826706597762640487_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416497671_380582064516572_8237968914421097597_n.jpg"
-    alt: "416497671_380582064516572_8237968914421097597_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416537588_1139129660392548_3469300113973156477_n.jpg"
-    alt: "416537588_1139129660392548_3469300113973156477_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416566681_3600806950163307_7701350002799538656_n.jpg"
-    alt: "416566681_3600806950163307_7701350002799538656_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416570746_1488491515340622_2516476369345937865_n.jpg"
-    alt: "416570746_1488491515340622_2516476369345937865_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416622903_959024815547100_7713417579856735817_n.jpg"
-    alt: "416622903_959024815547100_7713417579856735817_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416627895_336175272734323_5224893965691799639_n.jpg"
-    alt: "416627895_336175272734323_5224893965691799639_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416636363_1022081378869526_2454309983881682683_n.jpg"
-    alt: "416636363_1022081378869526_2454309983881682683_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416653869_737329958343732_306992135849924074_n.jpg"
-    alt: "416653869_737329958343732_306992135849924074_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416658063_2078442885869122_1467116509494781078_n.jpg"
-    alt: "416658063_2078442885869122_1467116509494781078_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416736484_368468495788131_3744452165169158106_n.jpg"
-    alt: "416736484_368468495788131_3744452165169158106_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/416898225_1065492594767182_8722790865103662347_n.jpg"
-    alt: "416898225_1065492594767182_8722790865103662347_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/417172965_910022157312426_4709481307069028482_n.jpg"
-    alt: "417172965_910022157312426_4709481307069028482_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/417224845_1104732430886263_1718046120387892052_n.jpg"
-    alt: "417224845_1104732430886263_1718046120387892052_n.jpg description"
-    width: 1080
-    height: 1350
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/417925483_387963496960839_4104689846246164234_n.jpg"
-    alt: "417925483_387963496960839_4104689846246164234_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/417935854_1733612847158396_863208371708680648_n.jpg"
-    alt: "417935854_1733612847158396_863208371708680648_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418036005_2066651613733796_2258869642688451002_n.jpg"
-    alt: "418036005_2066651613733796_2258869642688451002_n.jpg description"
-    width: 1440
-    height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418047197_1796144597498192_2682762625327303226_n.jpg"
-    alt: "418047197_1796144597498192_2682762625327303226_n.jpg description"
-    width: 1440
-    height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418304609_234785846336418_6348845140076304485_n.jpg"
-    alt: "418304609_234785846336418_6348845140076304485_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418380966_1048532053032991_757055223002329269_n.jpg"
-    alt: "418380966_1048532053032991_757055223002329269_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418398055_934706260839627_8260804234648436246_n.jpg"
-    alt: "418398055_934706260839627_8260804234648436246_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418398067_1526304608190503_1007540351286714649_n.jpg"
-    alt: "418398067_1526304608190503_1007540351286714649_n.jpg description"
-    width: 1440
-    height: 2628
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418430712_1794808937626744_2472066043355621493_n.jpg"
-    alt: "418430712_1794808937626744_2472066043355621493_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418435510_898647968236177_1504239962207284110_n.jpg"
-    alt: "418435510_898647968236177_1504239962207284110_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418483785_1849128242220113_3748650079670347096_n.jpg"
-    alt: "418483785_1849128242220113_3748650079670347096_n.jpg description"
-    width: 1440
-    height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418648338_253973790926415_4921395968355203856_n.jpg"
-    alt: "418648338_253973790926415_4921395968355203856_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418799436_900627865063850_1688276243944933601_n.jpg"
-    alt: "418799436_900627865063850_1688276243944933601_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418799600_25144681728463492_2845669181935015829_n.jpg"
-    alt: "418799600_25144681728463492_2845669181935015829_n.jpg description"
-    width: 1440
-    height: 2175
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418811503_413004447734751_796133275255699506_n.jpg"
-    alt: "418811503_413004447734751_796133275255699506_n.jpg description"
-    width: 720
-    height: 1280
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418837892_699840185609256_2089493756355387462_n.jpg"
     alt: "418837892_699840185609256_2089493756355387462_n.jpg description"
     width: 1440
@@ -3749,26 +2561,6 @@ images:
     height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418991027_343676201962542_4609203858924659437_n.jpg"
     alt: "418991027_343676201962542_4609203858924659437_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/418991159_718348736927150_67923638375074446_n.jpg"
-    alt: "418991159_718348736927150_67923638375074446_n.jpg description"
-    width: 1440
-    height: 1935
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/419039835_755386462603563_14714544622947875_n.jpg"
-    alt: "419039835_755386462603563_14714544622947875_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/419057899_3776412625927411_1804489309010796879_n.jpg"
-    alt: "419057899_3776412625927411_1804489309010796879_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/419299690_395291486275281_6999345661184781929_n.jpg"
-    alt: "419299690_395291486275281_6999345661184781929_n.jpg description"
-    width: 1440
-    height: 2174
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/419496514_6741373225974149_5208885929612051832_n.jpg"
-    alt: "419496514_6741373225974149_5208885929612051832_n.jpg description"
     width: 1440
     height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/419503994_1866467403790006_3679201484213591338_n.jpg"
@@ -3787,22 +2579,6 @@ images:
     alt: "420340886_785147263649465_6356134260835946061_n.jpg description"
     width: 1440
     height: 2674
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/420659318_911858440247985_5129385761837964603_n.jpg"
-    alt: "420659318_911858440247985_5129385761837964603_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/420812598_863771262162672_3872172898198012023_n.jpg"
-    alt: "420812598_863771262162672_3872172898198012023_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/420853327_376844914994620_710827351841279692_n.jpg"
-    alt: "420853327_376844914994620_710827351841279692_n.jpg description"
-    width: 1440
-    height: 1798
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/420968516_1042743083471196_2012644579493799386_n.jpg"
-    alt: "420968516_1042743083471196_2012644579493799386_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/420976448_818449466753141_2360114833310557026_n.jpg"
     alt: "420976448_818449466753141_2360114833310557026_n.jpg description"
     width: 1440
@@ -3811,30 +2587,14 @@ images:
     alt: "421002597_1614578916023137_6739179787332190565_n.jpg description"
     width: 1440
     height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/421010801_925284532449228_4858902520746481489_n.jpg"
-    alt: "421010801_925284532449228_4858902520746481489_n.jpg description"
-    width: 1440
-    height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/421989472_693084572981961_2711362017086177895_n.jpg"
     alt: "421989472_693084572981961_2711362017086177895_n.jpg description"
     width: 1440
     height: 1957
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/422065133_342000341996493_6217828918278725178_n.jpg"
-    alt: "422065133_342000341996493_6217828918278725178_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/422071962_925601112534393_2396823223340379221_n.jpg"
     alt: "422071962_925601112534393_2396823223340379221_n.jpg description"
     width: 1440
     height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/422073167_1377187019570258_7077240897043911358_n.jpg"
-    alt: "422073167_1377187019570258_7077240897043911358_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/422152630_1374815183402176_132887821782222333_n.jpg"
-    alt: "422152630_1374815183402176_132887821782222333_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/422544204_1419502855653365_7939738559751986589_n.jpg"
     alt: "422544204_1419502855653365_7939738559751986589_n.jpg description"
     width: 1440
@@ -3851,10 +2611,6 @@ images:
     alt: "425140913_354214544172788_1596961413931442010_n.jpg description"
     width: 720
     height: 1280
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/425159812_739679194782523_7340882495750191988_n.jpg"
-    alt: "425159812_739679194782523_7340882495750191988_n.jpg description"
-    width: 1440
-    height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/425307940_1841631203021888_2550215326610728243_n.jpg"
     alt: "425307940_1841631203021888_2550215326610728243_n.jpg description"
     width: 1440
@@ -3863,18 +2619,10 @@ images:
     alt: "425313519_1465641757634833_3992742668101384239_n.jpg description"
     width: 1440
     height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/425331860_1150575679202226_7564113633488776589_n.jpg"
-    alt: "425331860_1150575679202226_7564113633488776589_n.jpg description"
-    width: 1440
-    height: 2560
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/425401975_366370362865424_6197649036569098381_n.jpg"
     alt: "425401975_366370362865424_6197649036569098381_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/425419315_288598290574122_8909993777836120400_n.jpg"
-    alt: "425419315_288598290574122_8909993777836120400_n.jpg description"
-    width: 1440
-    height: 2560
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/425419486_1449920209258278_4948112574684959089_n.jpg"
     alt: "425419486_1449920209258278_4948112574684959089_n.jpg description"
     width: 1440
@@ -3883,30 +2631,10 @@ images:
     alt: "425787642_1105895990443386_2187991617085359980_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/425899862_6989833851112737_1991970930300635942_n.jpg"
-    alt: "425899862_6989833851112737_1991970930300635942_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/426131363_1047925806504136_6508579441182845308_n.jpg"
-    alt: "426131363_1047925806504136_6508579441182845308_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/426175081_894800132129494_240637618562249170_n.jpg"
     alt: "426175081_894800132129494_240637618562249170_n.jpg description"
     width: 1440
     height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/426182451_327299760265454_4250268643943458061_n.jpg"
-    alt: "426182451_327299760265454_4250268643943458061_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/426188023_1049878766273118_5138548292560381183_n.jpg"
-    alt: "426188023_1049878766273118_5138548292560381183_n.jpg description"
-    width: 640
-    height: 1136
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/426297509_1533021623931185_8710089473629848132_n.jpg"
-    alt: "426297509_1533021623931185_8710089473629848132_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/426366144_1583868682379208_6124568565842660378_n.jpg"
     alt: "426366144_1583868682379208_6124568565842660378_n.jpg description"
     width: 1440
@@ -3915,28 +2643,12 @@ images:
     alt: "426464405_293074773787567_1724212144865250273_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/426532278_3772298283091777_4699331889160753360_n.jpg"
-    alt: "426532278_3772298283091777_4699331889160753360_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/426606003_411298764747983_5769245472356399569_n.jpg"
     alt: "426606003_411298764747983_5769245472356399569_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/426745346_753221359777645_2063667896441760850_n.jpg"
-    alt: "426745346_753221359777645_2063667896441760850_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/427202301_765146372157079_5834660538449967937_n.jpg"
     alt: "427202301_765146372157079_5834660538449967937_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/427220180_297534096663278_3817880254618394749_n.jpg"
-    alt: "427220180_297534096663278_3817880254618394749_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/427576535_384156807550214_4324971193591832526_n.jpg"
-    alt: "427576535_384156807550214_4324971193591832526_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/427693861_844305087451993_3013963519476660141_n.jpg"
@@ -4063,10 +2775,6 @@ images:
     alt: "431960145_725435772733661_7802089688072603812_n.jpg description"
     width: 640
     height: 1136
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/433274255_398483342919536_5193968514945930765_n.jpg"
-    alt: "433274255_398483342919536_5193968514945930765_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/433282850_2513787275467377_7291148299884681460_n.jpg"
     alt: "433282850_2513787275467377_7291148299884681460_n.jpg description"
     width: 1365
@@ -4119,174 +2827,26 @@ images:
     alt: "434856865_953200303475394_5293398354857377083_n.jpg description"
     width: 1437
     height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/434858236_1061053594982881_8074044727204887379_n.jpg"
-    alt: "434858236_1061053594982881_8074044727204887379_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/434879653_452119277201997_5791428682966350880_n.jpg"
-    alt: "434879653_452119277201997_5791428682966350880_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/434881604_714013617478383_1990590302923043469_n.jpg"
     alt: "434881604_714013617478383_1990590302923043469_n.jpg description"
     width: 1262
     height: 2238
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/434891433_1115756736214916_4951455059943810259_n.jpg"
-    alt: "434891433_1115756736214916_4951455059943810259_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/434901942_7720184701366866_5359339228785651602_n.jpg"
-    alt: "434901942_7720184701366866_5359339228785651602_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/434928224_3772304109665152_7523507672739581291_n.jpg"
-    alt: "434928224_3772304109665152_7523507672739581291_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435076214_1079855340109517_3939503839954729967_n.jpg"
-    alt: "435076214_1079855340109517_3939503839954729967_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435087673_388055224014475_6892784055621246051_n.jpg"
-    alt: "435087673_388055224014475_6892784055621246051_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435091533_352585414424679_6725584624937468615_n.jpg"
-    alt: "435091533_352585414424679_6725584624937468615_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435095525_1075771333725603_4265858817413046555_n.jpg"
-    alt: "435095525_1075771333725603_4265858817413046555_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435126876_1212026829962081_446317977670425274_n.jpg"
-    alt: "435126876_1212026829962081_446317977670425274_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435167988_1069590361014100_8951328605005017627_n.jpg"
-    alt: "435167988_1069590361014100_8951328605005017627_n.jpg description"
-    width: 3512
-    height: 6240
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435271930_1396182717936364_2817730006299405534_n.jpg"
-    alt: "435271930_1396182717936364_2817730006299405534_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435273014_408116491947835_3596043146068962489_n.jpg"
-    alt: "435273014_408116491947835_3596043146068962489_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435649055_3513124805500310_1723560179523936825_n.jpg"
-    alt: "435649055_3513124805500310_1723560179523936825_n.jpg description"
-    width: 1440
-    height: 1795
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435656724_435431372201051_5595790948656468515_n.jpg"
-    alt: "435656724_435431372201051_5595790948656468515_n.jpg description"
-    width: 1440
-    height: 1795
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435668597_847152363839468_3994149087793204202_n.jpg"
-    alt: "435668597_847152363839468_3994149087793204202_n.jpg description"
-    width: 1440
-    height: 1795
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435676269_418873020792022_8617208352641747089_n.jpg"
-    alt: "435676269_418873020792022_8617208352641747089_n.jpg description"
-    width: 1440
-    height: 1795
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435708318_1462629384682604_3587490907825225572_n.jpg"
-    alt: "435708318_1462629384682604_3587490907825225572_n.jpg description"
-    width: 1440
-    height: 1795
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435708351_967870038181751_4328020242128963937_n.jpg"
-    alt: "435708351_967870038181751_4328020242128963937_n.jpg description"
-    width: 1440
-    height: 1795
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/435764372_1906649126419106_3434802252718742123_n.jpg"
-    alt: "435764372_1906649126419106_3434802252718742123_n.jpg description"
-    width: 1440
-    height: 1795
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436096539_410613634914703_4088541635823472624_n.jpg"
-    alt: "436096539_410613634914703_4088541635823472624_n.jpg description"
-    width: 1440
-    height: 1795
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436150355_485127543867311_771431941576019787_n.jpg"
-    alt: "436150355_485127543867311_771431941576019787_n.jpg description"
-    width: 1440
-    height: 1798
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436153463_1393515421355287_163211888905367943_n.jpg"
-    alt: "436153463_1393515421355287_163211888905367943_n.jpg description"
-    width: 1080
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436153657_3304762393163371_2518755263106647663_n.jpg"
-    alt: "436153657_3304762393163371_2518755263106647663_n.jpg description"
-    width: 1440
-    height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436175773_1465069310824813_3057637215496521951_n.jpg"
     alt: "436175773_1465069310824813_3057637215496521951_n.jpg description"
     width: 1440
     height: 1921
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436266098_385621894477782_1804079957825018179_n.jpg"
-    alt: "436266098_385621894477782_1804079957825018179_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436270308_966486961733677_7584584592084852711_n.jpg"
-    alt: "436270308_966486961733677_7584584592084852711_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436279780_1545178802712364_1535994144803985035_n.jpg"
-    alt: "436279780_1545178802712364_1535994144803985035_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436293799_1082236286173321_1826442156957871003_n.jpg"
-    alt: "436293799_1082236286173321_1826442156957871003_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436296817_1563860584344493_768715081300662307_n.jpg"
     alt: "436296817_1563860584344493_768715081300662307_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436299923_8038938042796561_9187573310340484240_n.jpg"
-    alt: "436299923_8038938042796561_9187573310340484240_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436300742_365606992643364_5879590277119514261_n.jpg"
-    alt: "436300742_365606992643364_5879590277119514261_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436302438_959754779231508_4261294105638382799_n.jpg"
-    alt: "436302438_959754779231508_4261294105638382799_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436304895_300627326446416_8831661606964269582_n.jpg"
-    alt: "436304895_300627326446416_8831661606964269582_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436333739_457072076813317_2157183040297689823_n.jpg"
-    alt: "436333739_457072076813317_2157183040297689823_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436341223_1511958842867463_2346933920655507528_n.jpg"
-    alt: "436341223_1511958842867463_2346933920655507528_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436360522_1611796019581626_4032124862337636051_n.jpg"
     alt: "436360522_1611796019581626_4032124862337636051_n.jpg description"
     width: 2160
     height: 1440
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436406983_812214450782810_5780296690139832415_n.jpg"
-    alt: "436406983_812214450782810_5780296690139832415_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436517922_743596511262412_6083334845409388623_n.jpg"
     alt: "436517922_743596511262412_6083334845409388623_n.jpg description"
     width: 640
     height: 1136
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436528037_1850693555355736_5010756063330226801_n.jpg"
-    alt: "436528037_1850693555355736_5010756063330226801_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/436589745_7750064361698482_7537469979465089192_n.jpg"
-    alt: "436589745_7750064361698482_7537469979465089192_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/437845541_731508899194525_5557377661597187784_n.jpg"
     alt: "437845541_731508899194525_5557377661597187784_n.jpg description"
     width: 1440
@@ -4303,44 +2863,12 @@ images:
     alt: "438652647_1374807596566485_5419533099977321128_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/438670577_954614916015197_2804077347634133292_n.jpg"
-    alt: "438670577_954614916015197_2804077347634133292_n.jpg description"
-    width: 1290
-    height: 2796
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/438754098_970706338028821_6755909713588347581_n.jpg"
-    alt: "438754098_970706338028821_6755909713588347581_n.jpg description"
-    width: 1440
-    height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/438762744_1631392337625085_4003897993756344020_n.jpg"
     alt: "438762744_1631392337625085_4003897993756344020_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/438870895_3399417673689936_4260943584638313497_n.jpg"
-    alt: "438870895_3399417673689936_4260943584638313497_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/438871262_273389975831217_3311995217091399214_n.jpg"
     alt: "438871262_273389975831217_3311995217091399214_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/438885149_1100133207912621_1849871555636612202_n.jpg"
-    alt: "438885149_1100133207912621_1849871555636612202_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/438906555_975562080941615_9037258255431228088_n.jpg"
-    alt: "438906555_975562080941615_9037258255431228088_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/438965985_414914307828612_1021443444668025178_n.jpg"
-    alt: "438965985_414914307828612_1021443444668025178_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/439010726_412522454824236_3561057092443228188_n.jpg"
-    alt: "439010726_412522454824236_3561057092443228188_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/439097043_393230713526343_3514577952996282221_n.jpg"
-    alt: "439097043_393230713526343_3514577952996282221_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/439097149_802428135114027_2464506361450500109_n.jpg"
@@ -4367,18 +2895,6 @@ images:
     alt: "439181675_446578114535024_7097955414023143367_n.jpg description"
     width: 1385
     height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/439221268_1002297114651171_2053475031275750344_n.jpg"
-    alt: "439221268_1002297114651171_2053475031275750344_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/439867069_1638340646932172_8532427331775683242_n.jpg"
-    alt: "439867069_1638340646932172_8532427331775683242_n.jpg description"
-    width: 1215
-    height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/439887439_7656337081084815_8559162674695384527_n.jpg"
-    alt: "439887439_7656337081084815_8559162674695384527_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/439928753_403375365834736_3954507045624042853_n.jpg"
     alt: "439928753_403375365834736_3954507045624042853_n.jpg description"
     width: 1440
@@ -4415,28 +2931,12 @@ images:
     alt: "440694666_443636978076715_2869053151304079145_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/440868013_3618956618342394_4309593207500299533_n.jpg"
-    alt: "440868013_3618956618342394_4309593207500299533_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/440873417_1222652582049828_1883051217596768104_n.jpg"
-    alt: "440873417_1222652582049828_1883051217596768104_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/440873419_1123645555612993_4664143169195951716_n.jpg"
     alt: "440873419_1123645555612993_4664143169195951716_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/440882060_959291959165687_2108218982865053611_n.jpg"
-    alt: "440882060_959291959165687_2108218982865053611_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/440904804_808619384465240_3027318418901887324_n.jpg"
     alt: "440904804_808619384465240_3027318418901887324_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/440909143_1118208059393307_3613122368833588096_n.jpg"
-    alt: "440909143_1118208059393307_3613122368833588096_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/440911709_370512232053292_5665552729843337882_n.jpg"
@@ -4445,14 +2945,6 @@ images:
     height: 2229
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/440929546_409813188539374_8161073594237386950_n.jpg"
     alt: "440929546_409813188539374_8161073594237386950_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/441106503_1476640269646071_4221521021629379568_n.jpg"
-    alt: "441106503_1476640269646071_4221521021629379568_n.jpg description"
-    width: 1440
-    height: 1921
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/441206291_3041264562682932_1105962765053822961_n.jpg"
-    alt: "441206291_3041264562682932_1105962765053822961_n.jpg description"
     width: 1440
     height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/441275299_1195667528122765_4180770597336913215_n.jpg"
@@ -4511,46 +3003,6 @@ images:
     alt: "441798548_684330513780750_9216069294796322792_n.jpg description"
     width: 1413
     height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/442094724_1382994639075371_7668010623042187910_n.jpg"
-    alt: "442094724_1382994639075371_7668010623042187910_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/442137861_1190886361901293_1972957383588846405_n.jpg"
-    alt: "442137861_1190886361901293_1972957383588846405_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/442465283_816461289816610_3117737286478464639_n.jpg"
-    alt: "442465283_816461289816610_3117737286478464639_n.jpg description"
-    width: 1200
-    height: 1500
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/442469162_972619224511728_5598155211094129217_n.jpg"
-    alt: "442469162_972619224511728_5598155211094129217_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/442515496_367022223009443_4918632005032437993_n.jpg"
-    alt: "442515496_367022223009443_4918632005032437993_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/442561176_1852308955182860_1043617340195955662_n.jpg"
-    alt: "442561176_1852308955182860_1043617340195955662_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/442650374_25960130420267947_2753407148739943657_n.jpg"
-    alt: "442650374_25960130420267947_2753407148739943657_n.jpg description"
-    width: 1440
-    height: 1921
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/442670250_984752336614756_941894095312153578_n.jpg"
-    alt: "442670250_984752336614756_941894095312153578_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/442677906_315514191581450_4501001707842794736_n.jpg"
-    alt: "442677906_315514191581450_4501001707842794736_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/442678043_1643381553157269_2843923973421500650_n.jpg"
-    alt: "442678043_1643381553157269_2843923973421500650_n.jpg description"
-    width: 720
-    height: 900
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/442686532_801072528880706_6800731930869766982_n.jpg"
     alt: "442686532_801072528880706_6800731930869766982_n.jpg description"
     width: 1440
@@ -4591,18 +3043,6 @@ images:
     alt: "446215794_462592903030275_1833007543902078369_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/446219812_705194591654336_2719253535671654689_n.jpg"
-    alt: "446219812_705194591654336_2719253535671654689_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/446328486_1090523378688849_4325292476574916502_n.jpg"
-    alt: "446328486_1090523378688849_4325292476574916502_n.jpg description"
-    width: 720
-    height: 900
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/446339059_3713298992268906_6220831740595857572_n.jpg"
-    alt: "446339059_3713298992268906_6220831740595857572_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/446350279_436739355958901_271594505495862885_n.jpg"
     alt: "446350279_436739355958901_271594505495862885_n.jpg description"
     width: 1440
@@ -4647,74 +3087,6 @@ images:
     alt: "446814320_363816183380857_7171601197890585823_n.jpg description"
     width: 2160
     height: 1440
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/446817924_468411582241627_1896357946580395067_n.jpg"
-    alt: "446817924_468411582241627_1896357946580395067_n.jpg description"
-    width: 2170
-    height: 3854
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/446889123_1522609231627044_6915898282109093122_n.jpg"
-    alt: "446889123_1522609231627044_6915898282109093122_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/446943484_848397053796549_3047270610777903365_n.jpg"
-    alt: "446943484_848397053796549_3047270610777903365_n.jpg description"
-    width: 720
-    height: 900
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/446968505_2660618184117544_5276988017047556323_n.jpg"
-    alt: "446968505_2660618184117544_5276988017047556323_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447023046_474044715305983_2337074833248296729_n.jpg"
-    alt: "447023046_474044715305983_2337074833248296729_n.jpg description"
-    width: 720
-    height: 900
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447057583_7761409790592011_3844719475401887442_n.jpg"
-    alt: "447057583_7761409790592011_3844719475401887442_n.jpg description"
-    width: 1290
-    height: 2293
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447067360_434377176182720_7114222145651851325_n.jpg"
-    alt: "447067360_434377176182720_7114222145651851325_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447068551_844898030338797_5216582851757593576_n.jpg"
-    alt: "447068551_844898030338797_5216582851757593576_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447068629_727428142702905_621670405551985113_n.jpg"
-    alt: "447068629_727428142702905_621670405551985113_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447096424_962176058850619_7073696860294693631_n.jpg"
-    alt: "447096424_962176058850619_7073696860294693631_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447104113_398197809841684_3049429396883188364_n.jpg"
-    alt: "447104113_398197809841684_3049429396883188364_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447104122_487703410454136_464577717968715220_n.jpg"
-    alt: "447104122_487703410454136_464577717968715220_n.jpg description"
-    width: 720
-    height: 900
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447146117_1198343318142633_2774815744068043959_n.jpg"
-    alt: "447146117_1198343318142633_2774815744068043959_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447148685_437562165682377_6779071313840350221_n.jpg"
-    alt: "447148685_437562165682377_6779071313840350221_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447151773_472391975265308_7014281934658663849_n.jpg"
-    alt: "447151773_472391975265308_7014281934658663849_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447174771_1149638196159048_6199189220366060193_n.jpg"
-    alt: "447174771_1149638196159048_6199189220366060193_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447499956_470417418693247_4528319999086467252_n.jpg"
-    alt: "447499956_470417418693247_4528319999086467252_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447915292_428310646777807_780319743004653102_n.jpg"
     alt: "447915292_428310646777807_780319743004653102_n.jpg description"
     width: 1440
@@ -4727,18 +3099,6 @@ images:
     alt: "447965767_476205411614140_2892800126566972439_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447973608_378570831887366_7215345888998145990_n.jpg"
-    alt: "447973608_378570831887366_7215345888998145990_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/447986261_3818438651814990_2604446532266378390_n.jpg"
-    alt: "447986261_3818438651814990_2604446532266378390_n.jpg description"
-    width: 720
-    height: 900
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/448026661_1107199383707771_1551952143281502266_n.jpg"
-    alt: "448026661_1107199383707771_1551952143281502266_n.jpg description"
-    width: 720
-    height: 900
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/448032894_475458588350762_5058462721940236605_n.jpg"
     alt: "448032894_475458588350762_5058462721940236605_n.jpg description"
     width: 1440
@@ -4751,14 +3111,6 @@ images:
     alt: "448162405_1774276976397335_875654181153712431_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/448165950_7753797438019543_5790205663841250078_n.jpg"
-    alt: "448165950_7753797438019543_5790205663841250078_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/448166359_964916868616460_2641890961939974950_n.jpg"
-    alt: "448166359_964916868616460_2641890961939974950_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/448166963_1005988780787448_1529915789278766004_n.jpg"
     alt: "448166963_1005988780787448_1529915789278766004_n.jpg description"
     width: 1440
@@ -4767,10 +3119,6 @@ images:
     alt: "448199240_3699900086915483_1844507331499425113_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/448203974_7599038196851573_4947924768465451672_n.jpg"
-    alt: "448203974_7599038196851573_4947924768465451672_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/448210985_803463238562204_5903138708057756833_n.jpg"
     alt: "448210985_803463238562204_5903138708057756833_n.jpg description"
     width: 1440
@@ -4815,10 +3163,6 @@ images:
     alt: "448983119_321573151012233_1250128441612202551_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/448984923_1190767578935546_2783294481412105116_n.jpg"
-    alt: "448984923_1190767578935546_2783294481412105116_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/448985475_436125385990720_5902323337334135687_n.jpg"
     alt: "448985475_436125385990720_5902323337334135687_n.jpg description"
     width: 1440
@@ -4849,22 +3193,6 @@ images:
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/449671087_492663583294118_3052696229062264424_n.jpg"
     alt: "449671087_492663583294118_3052696229062264424_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/449700813_1845229915977409_5849175510199247047_n.jpg"
-    alt: "449700813_1845229915977409_5849175510199247047_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/449839196_1022097066017592_7829335370699244205_n.jpg"
-    alt: "449839196_1022097066017592_7829335370699244205_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/449842072_1212044069964781_5503686904105160954_n.jpg"
-    alt: "449842072_1212044069964781_5503686904105160954_n.jpg description"
-    width: 720
-    height: 900
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/449848231_1863002590869680_6631765812112261438_n.jpg"
-    alt: "449848231_1863002590869680_6631765812112261438_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450095108_1005628634645309_8350878150521513808_n.jpg"
@@ -4919,56 +3247,12 @@ images:
     alt: "450202216_734648025357710_1210114486795680960_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450210832_1237139780805566_5538986396568467930_n.jpg"
-    alt: "450210832_1237139780805566_5538986396568467930_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450241861_464526816193361_4177170220592557377_n.jpg"
-    alt: "450241861_464526816193361_4177170220592557377_n.jpg description"
-    width: 1440
-    height: 1794
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450260521_1585313675659610_7857691526047133519_n.jpg"
     alt: "450260521_1585313675659610_7857691526047133519_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450263933_841814507833722_2143988894258946199_n.jpg"
-    alt: "450263933_841814507833722_2143988894258946199_n.jpg description"
-    width: 1440
-    height: 1794
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450273240_1016176540186905_6416333336764460467_n.jpg"
-    alt: "450273240_1016176540186905_6416333336764460467_n.jpg description"
-    width: 720
-    height: 897
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450278508_7635654613170335_149478567565425309_n.jpg"
-    alt: "450278508_7635654613170335_149478567565425309_n.jpg description"
-    width: 1440
-    height: 1794
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450291732_1450658275773460_9015079383250713061_n.jpg"
-    alt: "450291732_1450658275773460_9015079383250713061_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450294099_444028141887447_6905355963474751511_n.jpg"
-    alt: "450294099_444028141887447_6905355963474751511_n.jpg description"
-    width: 1440
-    height: 1794
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450466709_1302311920729775_2134303632443673585_n.jpg"
-    alt: "450466709_1302311920729775_2134303632443673585_n.jpg description"
-    width: 1440
-    height: 1794
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450506679_2716177108586856_5883959393910454432_n.jpg"
-    alt: "450506679_2716177108586856_5883959393910454432_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450511970_1081169603454422_8325935077273907397_n.jpg"
     alt: "450511970_1081169603454422_8325935077273907397_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450586518_2484469038425574_3783444894219492560_n.jpg"
-    alt: "450586518_2484469038425574_3783444894219492560_n.jpg description"
-    width: 3212
-    height: 5712
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450643080_1211164213400207_2021294702321316055_n.jpg"
-    alt: "450643080_1211164213400207_2021294702321316055_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450648975_896550332505964_22948065880740221_n.jpg"
@@ -4987,42 +3271,6 @@ images:
     alt: "450656398_369354979201569_6274061446605784680_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450662620_463341609963897_1807562564331794328_n.jpg"
-    alt: "450662620_463341609963897_1807562564331794328_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450662628_2276077016079488_4577069956072600140_n.jpg"
-    alt: "450662628_2276077016079488_4577069956072600140_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450775818_1259620088370522_1961482710698426419_n.jpg"
-    alt: "450775818_1259620088370522_1961482710698426419_n.jpg description"
-    width: 1288
-    height: 2294
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450909015_306800715846741_2170504436753215284_n.jpg"
-    alt: "450909015_306800715846741_2170504436753215284_n.jpg description"
-    width: 720
-    height: 1280
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450914011_837971144925874_6802299126332075164_n.jpg"
-    alt: "450914011_837971144925874_6802299126332075164_n.jpg description"
-    width: 720
-    height: 1280
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450947261_1900330580430979_295612041302897331_n.jpg"
-    alt: "450947261_1900330580430979_295612041302897331_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/450948130_993658468883094_7334097123280102141_n.jpg"
-    alt: "450948130_993658468883094_7334097123280102141_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/451102154_1235551484468572_5119632933364183469_n.jpg"
-    alt: "451102154_1235551484468572_5119632933364183469_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/451106707_1005265431291405_3684350517896366900_n.jpg"
-    alt: "451106707_1005265431291405_3684350517896366900_n.jpg description"
-    width: 1440
-    height: 1797
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/451106708_897751535446020_8388465461005351739_n.jpg"
     alt: "451106708_897751535446020_8388465461005351739_n.jpg description"
     width: 1440
@@ -5031,14 +3279,6 @@ images:
     alt: "451108469_25804488405866573_4514135220423709203_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/451112216_458367583713280_4658518977950928479_n.jpg"
-    alt: "451112216_458367583713280_4658518977950928479_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/451114037_796784165981685_6946997615292976466_n.jpg"
-    alt: "451114037_796784165981685_6946997615292976466_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/451203440_454424984150292_490467056811265646_n.jpg"
     alt: "451203440_454424984150292_490467056811265646_n.jpg description"
     width: 1440
@@ -5055,22 +3295,6 @@ images:
     alt: "451790559_1960249277746934_6769295875057291960_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/451988873_422034797538776_5779858959628080467_n.jpg"
-    alt: "451988873_422034797538776_5779858959628080467_n.jpg description"
-    width: 1440
-    height: 1797
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/452406218_510580751649599_2090648381929828526_n.jpg"
-    alt: "452406218_510580751649599_2090648381929828526_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/452526181_1557517911645352_1636908456316426309_n.jpg"
-    alt: "452526181_1557517911645352_1636908456316426309_n.jpg description"
-    width: 1440
-    height: 2419
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/452761260_520772276965126_2714622919492442314_n.jpg"
-    alt: "452761260_520772276965126_2714622919492442314_n.jpg description"
-    width: 1440
-    height: 1797
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/452761579_991630769178593_3825561309559410392_n.jpg"
     alt: "452761579_991630769178593_3825561309559410392_n.jpg description"
     width: 1440
@@ -5099,18 +3323,6 @@ images:
     alt: "453264553_403351925574628_7304146065252731381_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453334945_1200073977797150_1655250429181168783_n.jpg"
-    alt: "453334945_1200073977797150_1655250429181168783_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453348409_482676981130954_7913706288003887056_n.jpg"
-    alt: "453348409_482676981130954_7913706288003887056_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453375024_863373235839306_1286837939272897408_n.jpg"
-    alt: "453375024_863373235839306_1286837939272897408_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453420223_3338415533119808_5118841062568070806_n.jpg"
     alt: "453420223_3338415533119808_5118841062568070806_n.jpg description"
     width: 1440
@@ -5119,46 +3331,14 @@ images:
     alt: "453448710_972017237941977_6979948005106826015_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453477416_409866285411377_1764510491406181562_n.jpg"
-    alt: "453477416_409866285411377_1764510491406181562_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453532048_474678465192345_5426052778921532593_n.jpg"
-    alt: "453532048_474678465192345_5426052778921532593_n.jpg description"
-    width: 1440
-    height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453603411_1211308680048276_724619182270418877_n.jpg"
     alt: "453603411_1211308680048276_724619182270418877_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453775179_500306729110955_8902005874266862871_n.jpg"
-    alt: "453775179_500306729110955_8902005874266862871_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453797129_2173625279660841_8026534779261765373_n.jpg"
-    alt: "453797129_2173625279660841_8026534779261765373_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453891607_525056539850435_8062351427689806101_n.jpg"
-    alt: "453891607_525056539850435_8062351427689806101_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453951987_862379629145916_6367129119202539781_n.jpg"
     alt: "453951987_862379629145916_6367129119202539781_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/453970743_895751959279529_515252469562733666_n.jpg"
-    alt: "453970743_895751959279529_515252469562733666_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/454025463_1870360173488359_1373773985186787700_n.jpg"
-    alt: "454025463_1870360173488359_1373773985186787700_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/454032195_1539204893648010_1519945447962915131_n.jpg"
-    alt: "454032195_1539204893648010_1519945447962915131_n.jpg description"
-    width: 1440
-    height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/454086853_1643856189743718_1269743288819054567_n.jpg"
     alt: "454086853_1643856189743718_1269743288819054567_n.jpg description"
     width: 1440
@@ -5167,22 +3347,10 @@ images:
     alt: "454301599_481865257966625_6221699792176948381_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/454364933_857801162509539_7501784882111773355_n.jpg"
-    alt: "454364933_857801162509539_7501784882111773355_n.jpg description"
-    width: 1440
-    height: 1917
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/454370573_1205229310817606_4835744061498014765_n.jpg"
     alt: "454370573_1205229310817606_4835744061498014765_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/454429543_468415129331594_4606532725420290689_n.jpg"
-    alt: "454429543_468415129331594_4606532725420290689_n.jpg description"
-    width: 720
-    height: 899
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/454530812_493406319958731_5988696084325624784_n.jpg"
-    alt: "454530812_493406319958731_5988696084325624784_n.jpg description"
-    width: 720
-    height: 899
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/454623150_1060481782463712_5949340086416523872_n.jpg"
     alt: "454623150_1060481782463712_5949340086416523872_n.jpg description"
     width: 1440
@@ -5303,58 +3471,14 @@ images:
     alt: "456207081_856289086433559_924974515345900834_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456231532_1033878327816002_2543939227672127614_n.jpg"
-    alt: "456231532_1033878327816002_2543939227672127614_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456315147_486135524176276_8241314759320288301_n.jpg"
     alt: "456315147_486135524176276_8241314759320288301_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456433690_949673726925549_8936886229294923007_n.jpg"
-    alt: "456433690_949673726925549_8936886229294923007_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456443022_413285314608408_5893169948147601556_n.jpg"
     alt: "456443022_413285314608408_5893169948147601556_n.jpg description"
     width: 1419
     height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456527321_8044603438991798_1175640141596748607_n.jpg"
-    alt: "456527321_8044603438991798_1175640141596748607_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456592684_1063384382298796_5229523885625090174_n.jpg"
-    alt: "456592684_1063384382298796_5229523885625090174_n.jpg description"
-    width: 1440
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456627168_1335152374518474_8496334570548456783_n.jpg"
-    alt: "456627168_1335152374518474_8496334570548456783_n.jpg description"
-    width: 1290
-    height: 1720
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456691300_474314975500721_1950383179987624745_n.jpg"
-    alt: "456691300_474314975500721_1950383179987624745_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456738105_835720828306261_541826758936202399_n.jpg"
-    alt: "456738105_835720828306261_541826758936202399_n.jpg description"
-    width: 1290
-    height: 1720
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456750441_863064162430564_3479290059702724833_n.jpg"
-    alt: "456750441_863064162430564_3479290059702724833_n.jpg description"
-    width: 1083
-    height: 1444
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456763928_1012235610552414_3651225267279897584_n.jpg"
-    alt: "456763928_1012235610552414_3651225267279897584_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456827554_1188121012521173_7395270100815898380_n.jpg"
-    alt: "456827554_1188121012521173_7395270100815898380_n.jpg description"
-    width: 1080
-    height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456828563_301454036391836_6622410641238226608_n.jpg"
-    alt: "456828563_301454036391836_6622410641238226608_n.jpg description"
-    width: 1290
-    height: 1720
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/456921440_1615017466020938_3403374303306109009_n.jpg"
     alt: "456921440_1615017466020938_3403374303306109009_n.jpg description"
     width: 1440
@@ -5367,20 +3491,12 @@ images:
     alt: "457102415_1970537066739073_5662033705650812365_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457135582_3845179225700639_3639287396698115952_n.jpg"
-    alt: "457135582_3845179225700639_3639287396698115952_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457141608_725905193008329_8083909254129095825_n.jpg"
     alt: "457141608_725905193008329_8083909254129095825_n.jpg description"
     width: 1440
     height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457250144_1723188565116946_8065024932152312875_n.jpg"
     alt: "457250144_1723188565116946_8065024932152312875_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457250557_361603653553143_987433003025851403_n.jpg"
-    alt: "457250557_361603653553143_987433003025851403_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457251242_1149061306200099_8855180434882376461_n.jpg"
@@ -5451,10 +3567,6 @@ images:
     alt: "457489453_3119892738140739_3444355917632025965_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457506350_1538520703432831_8839206116863619710_n.jpg"
-    alt: "457506350_1538520703432831_8839206116863619710_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457506620_996787382193011_2940342149082068751_n.jpg"
     alt: "457506620_996787382193011_2940342149082068751_n.jpg description"
     width: 1440
@@ -5467,10 +3579,6 @@ images:
     alt: "457510212_862112135549767_2683123471736099070_n.jpg description"
     width: 1433
     height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457514275_1565727781040297_3256981542248545380_n.jpg"
-    alt: "457514275_1565727781040297_3256981542248545380_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457514276_912543727576095_4540300554608582769_n.jpg"
     alt: "457514276_912543727576095_4540300554608582769_n.jpg description"
     width: 1440
@@ -5507,18 +3615,10 @@ images:
     alt: "457708615_1065245498637951_5424046682733650797_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457799538_924292013052508_3785395415990787561_n.jpg"
-    alt: "457799538_924292013052508_3785395415990787561_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457818467_430183242822560_659875991021515352_n.jpg"
     alt: "457818467_430183242822560_659875991021515352_n.jpg description"
     width: 1436
     height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457826838_1315056219901297_6060962331238405928_n.jpg"
-    alt: "457826838_1315056219901297_6060962331238405928_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457847546_1033927954591277_656934249749673695_n.jpg"
     alt: "457847546_1033927954591277_656934249749673695_n.jpg description"
     width: 2159
@@ -5545,10 +3645,6 @@ images:
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457864977_1038949837927778_2128176219044403731_n.jpg"
     alt: "457864977_1038949837927778_2128176219044403731_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457868827_1772300486634646_8814973194110091725_n.jpg"
-    alt: "457868827_1772300486634646_8814973194110091725_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/457870140_1918902611956279_2481287889021320863_n.jpg"
@@ -5591,22 +3687,6 @@ images:
     alt: "458382395_998268561986665_2430701783409910737_n.jpg description"
     width: 1440
     height: 2160
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/458475453_7971665786293743_3804073710308786923_n.jpg"
-    alt: "458475453_7971665786293743_3804073710308786923_n.jpg description"
-    width: 2484
-    height: 4416
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/458655559_505487248883522_3227711996174654681_n.jpg"
-    alt: "458655559_505487248883522_3227711996174654681_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/458657573_485269254376157_214783059626169276_n.jpg"
-    alt: "458657573_485269254376157_214783059626169276_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/458665578_504124202329371_5681951266450783500_n.jpg"
-    alt: "458665578_504124202329371_5681951266450783500_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/458669614_1544581582811425_5597168250607546611_n.jpg"
     alt: "458669614_1544581582811425_5597168250607546611_n.jpg description"
     width: 1357
@@ -5641,10 +3721,6 @@ images:
     height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/459061580_878473920898149_2004958242557728883_n.jpg"
     alt: "459061580_878473920898149_2004958242557728883_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/459111193_478006528407454_2315014458421208952_n.jpg"
-    alt: "459111193_478006528407454_2315014458421208952_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/459117785_447750981613417_828080477410952086_n.jpg"
@@ -5687,18 +3763,6 @@ images:
     alt: "460804239_1244979989981477_8332237050836543655_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/460810221_1101824851277467_3829471977904677555_n.jpg"
-    alt: "460810221_1101824851277467_3829471977904677555_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/461381899_3857651014562192_2621642969847517337_n.jpg"
-    alt: "461381899_3857651014562192_2621642969847517337_n.jpg description"
-    width: 1000
-    height: 1776
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/461892326_1781122452694515_2767622418027773097_n.jpg"
-    alt: "461892326_1781122452694515_2767622418027773097_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/461892328_1204211794204537_6871170890280345563_n.jpg"
     alt: "461892328_1204211794204537_6871170890280345563_n.jpg description"
     width: 1440
@@ -5715,30 +3779,10 @@ images:
     alt: "462056042_929078689255137_5881856372783782784_n.jpg description"
     width: 720
     height: 1280
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/462223060_2307815146229515_2307905264477735144_n.jpg"
-    alt: "462223060_2307815146229515_2307905264477735144_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/462233175_923077683010679_606641051531528303_n.jpg"
-    alt: "462233175_923077683010679_606641051531528303_n.jpg description"
-    width: 1440
-    height: 1681
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/462284200_1949518482136690_8718942888247103815_n.jpg"
-    alt: "462284200_1949518482136690_8718942888247103815_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/463093277_1070035281278009_4776418072122432387_n.jpg"
     alt: "463093277_1070035281278009_4776418072122432387_n.jpg description"
     width: 1440
     height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/463131866_1281895999840666_4391557257488753291_n.jpg"
-    alt: "463131866_1281895999840666_4391557257488753291_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/463156151_1082923796562170_656550265679807421_n.jpg"
-    alt: "463156151_1082923796562170_656550265679807421_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/463183192_923696329664828_1383987713748804798_n.jpg"
     alt: "463183192_923696329664828_1383987713748804798_n.jpg description"
     width: 1440
@@ -5747,14 +3791,6 @@ images:
     alt: "463194576_405198412631020_692973418878922964_n.jpg description"
     width: 1440
     height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/463196741_569924528710836_8166944184820883525_n.jpg"
-    alt: "463196741_569924528710836_8166944184820883525_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/463196741_939987407949796_797416701053561434_n.jpg"
-    alt: "463196741_939987407949796_797416701053561434_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/463312907_854392373481224_1879663209112493161_n.jpg"
     alt: "463312907_854392373481224_1879663209112493161_n.jpg description"
     width: 1440
@@ -5783,10 +3819,6 @@ images:
     alt: "464260858_566246252432310_5453229950465353304_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464270037_3747079552219981_4227138751223313328_n.jpg"
-    alt: "464270037_3747079552219981_4227138751223313328_n.jpg description"
-    width: 1184
-    height: 1479
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464298561_1479220446112003_2724658496886900476_n.jpg"
     alt: "464298561_1479220446112003_2724658496886900476_n.jpg description"
     width: 1440
@@ -5815,164 +3847,12 @@ images:
     alt: "464368960_989721179631057_1912455325199196954_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464375248_529630019700151_5648786288314921118_n.jpg"
-    alt: "464375248_529630019700151_5648786288314921118_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464465071_521110417457453_4687845071285942173_n.jpg"
-    alt: "464465071_521110417457453_4687845071285942173_n.jpg description"
-    width: 1184
-    height: 1479
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464475411_928497772533687_129933998494281670_n.jpg"
-    alt: "464475411_928497772533687_129933998494281670_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464475416_2276588672699875_5541721114328902380_n.jpg"
-    alt: "464475416_2276588672699875_5541721114328902380_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464565872_1091837052948818_1156353189161321128_n.jpg"
-    alt: "464565872_1091837052948818_1156353189161321128_n.jpg description"
-    width: 1184
-    height: 1479
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464566239_1238351087425197_3629381681437724517_n.jpg"
-    alt: "464566239_1238351087425197_3629381681437724517_n.jpg description"
-    width: 640
-    height: 1136
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464669958_1249220766317638_2018327386454873895_n.jpg"
-    alt: "464669958_1249220766317638_2018327386454873895_n.jpg description"
-    width: 720
-    height: 900
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464679091_2580593112139124_3581484338756267864_n.jpg"
-    alt: "464679091_2580593112139124_3581484338756267864_n.jpg description"
-    width: 720
-    height: 900
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464680228_1277300003302866_5705008187114812901_n.jpg"
-    alt: "464680228_1277300003302866_5705008187114812901_n.jpg description"
-    width: 720
-    height: 900
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464740056_1565840260706416_2761582034142687196_n.jpg"
-    alt: "464740056_1565840260706416_2761582034142687196_n.jpg description"
-    width: 1184
-    height: 1480
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464757865_1087488936340590_768598668419835035_n.jpg"
-    alt: "464757865_1087488936340590_768598668419835035_n.jpg description"
-    width: 1184
-    height: 1480
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464764447_1062329208972963_6276950933890373516_n.jpg"
-    alt: "464764447_1062329208972963_6276950933890373516_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464839658_872840101653056_1095229742455186409_n.jpg"
-    alt: "464839658_872840101653056_1095229742455186409_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464858856_1046789517241129_4930150643830144735_n.jpg"
-    alt: "464858856_1046789517241129_4930150643830144735_n.jpg description"
-    width: 1184
-    height: 1479
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464859315_1047504693522257_8328700386284390304_n.jpg"
-    alt: "464859315_1047504693522257_8328700386284390304_n.jpg description"
-    width: 956
-    height: 1194
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464877157_483555021355665_8468004646363761600_n.jpg"
-    alt: "464877157_483555021355665_8468004646363761600_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464883584_893827329367277_887679180186931718_n.jpg"
-    alt: "464883584_893827329367277_887679180186931718_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464892951_1615869409138405_2718868902333390583_n.jpg"
-    alt: "464892951_1615869409138405_2718868902333390583_n.jpg description"
-    width: 1184
-    height: 1479
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464896376_4154219638138768_1931103391356209304_n.jpg"
-    alt: "464896376_4154219638138768_1931103391356209304_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464907490_581548004304263_9052157321810227420_n.jpg"
-    alt: "464907490_581548004304263_9052157321810227420_n.jpg description"
-    width: 1184
-    height: 1480
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464907928_562721606248860_84978776280765661_n.jpg"
-    alt: "464907928_562721606248860_84978776280765661_n.jpg description"
-    width: 1184
-    height: 1480
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464926200_1495513087833754_4649044098433349103_n.jpg"
-    alt: "464926200_1495513087833754_4649044098433349103_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464948108_27372894165688320_2787262581358838080_n.jpg"
-    alt: "464948108_27372894165688320_2787262581358838080_n.jpg description"
-    width: 1184
-    height: 1480
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464996282_1277780486741605_678647148386981703_n.jpg"
-    alt: "464996282_1277780486741605_678647148386981703_n.jpg description"
-    width: 1184
-    height: 1480
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464997952_1618571939039364_4247907548906352566_n.jpg"
-    alt: "464997952_1618571939039364_4247907548906352566_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/464999939_1616380108949532_6717162090977027555_n.jpg"
-    alt: "464999939_1616380108949532_6717162090977027555_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465002205_542671438381552_283472302413838795_n.jpg"
-    alt: "465002205_542671438381552_283472302413838795_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465015462_1631408447796588_1494741564424290386_n.jpg"
-    alt: "465015462_1631408447796588_1494741564424290386_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465065507_1072566344346901_2319238008796377748_n.jpg"
-    alt: "465065507_1072566344346901_2319238008796377748_n.jpg description"
-    width: 1184
-    height: 1480
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465065756_915487200488778_7558036282131451358_n.jpg"
-    alt: "465065756_915487200488778_7558036282131451358_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465092594_526783896865833_8952142171863000794_n.jpg"
-    alt: "465092594_526783896865833_8952142171863000794_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465126946_525876733594911_2538320594149140145_n.jpg"
-    alt: "465126946_525876733594911_2538320594149140145_n.jpg description"
-    width: 1215
-    height: 1518
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465137903_593289573035985_6317927716943654805_n.jpg"
-    alt: "465137903_593289573035985_6317927716943654805_n.jpg description"
-    width: 1184
-    height: 1480
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465194326_1191725791901614_1717397243627793626_n.jpg"
-    alt: "465194326_1191725791901614_1717397243627793626_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465200291_574914061869580_598386751988804420_n.jpg"
-    alt: "465200291_574914061869580_598386751988804420_n.jpg description"
-    width: 1176
-    height: 1470
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465205671_1607364863147797_1441723930740647200_n.jpg"
-    alt: "465205671_1607364863147797_1441723930740647200_n.jpg description"
-    width: 1184
-    height: 1480
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465222694_863251475998306_1052173901569513004_n.jpg"
     alt: "465222694_863251475998306_1052173901569513004_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465254350_1071910541039841_1668722441500685044_n.jpg"
     alt: "465254350_1071910541039841_1668722441500685044_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465297705_1091247839385717_1684560246755040028_n.jpg"
-    alt: "465297705_1091247839385717_1684560246755040028_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465312901_930153059049256_3729524162106586092_n.jpg"
-    alt: "465312901_930153059049256_3729524162106586092_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465480720_900228225419101_985419661782042166_n.jpg"
@@ -5987,38 +3867,10 @@ images:
     alt: "465535057_1606412690313237_4368734247596499531_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465541386_1323996285499154_8069103940301545102_n.jpg"
-    alt: "465541386_1323996285499154_8069103940301545102_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465544064_916755633728055_4479107835103830407_n.jpg"
-    alt: "465544064_916755633728055_4479107835103830407_n.jpg description"
-    width: 1215
-    height: 1518
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465561694_1067590861507454_4913273674105376852_n.jpg"
-    alt: "465561694_1067590861507454_4913273674105376852_n.jpg description"
-    width: 720
-    height: 900
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465744321_485868384510734_5633253789069146932_n.jpg"
     alt: "465744321_485868384510734_5633253789069146932_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465744325_1997720154004904_2290910086505964352_n.jpg"
-    alt: "465744325_1997720154004904_2290910086505964352_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465867418_894122452876335_5276900293098882600_n.jpg"
-    alt: "465867418_894122452876335_5276900293098882600_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465881181_1078655570420635_5729419796887996638_n.jpg"
-    alt: "465881181_1078655570420635_5729419796887996638_n.jpg description"
-    width: 1440
-    height: 2609
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465882143_970307414930255_1911653179046896140_n.jpg"
-    alt: "465882143_970307414930255_1911653179046896140_n.jpg description"
-    width: 1215
-    height: 1518
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/465967546_1118432143170757_2939614324880904492_n.jpg"
     alt: "465967546_1118432143170757_2939614324880904492_n.jpg description"
     width: 1440
@@ -6079,10 +3931,6 @@ images:
     alt: "467197958_18477566041032697_7288827860497296498_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/467204261_18477566110032697_7318539533114015330_n.jpg"
-    alt: "467204261_18477566110032697_7318539533114015330_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/467205007_18477566086032697_7141964782760085012_n.jpg"
     alt: "467205007_18477566086032697_7141964782760085012_n.jpg description"
     width: 1440
@@ -6091,58 +3939,10 @@ images:
     alt: "467210486_18477418234032697_262676551986723592_n.jpg description"
     width: 1440
     height: 2591
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/467255009_18477566071032697_3869541287257668158_n.jpg"
-    alt: "467255009_18477566071032697_3869541287257668158_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/467304345_18477566098032697_8783603785423825299_n.jpg"
-    alt: "467304345_18477566098032697_8783603785423825299_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/467543778_18477769840032697_7302630447217028964_n.jpg"
-    alt: "467543778_18477769840032697_7302630447217028964_n.jpg description"
-    width: 1440
-    height: 2001
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/467603857_18477769822032697_7834165276263015027_n.jpg"
-    alt: "467603857_18477769822032697_7834165276263015027_n.jpg description"
-    width: 1440
-    height: 1957
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469044177_916867147062645_8271249567995073727_n.jpg"
-    alt: "469044177_916867147062645_8271249567995073727_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469109324_769658692004081_7942595049386094891_n.jpg"
-    alt: "469109324_769658692004081_7942595049386094891_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469119401_919058993625903_8106836269647455258_n.jpg"
-    alt: "469119401_919058993625903_8106836269647455258_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469125358_1898637867295668_8269182902459975419_n.jpg"
-    alt: "469125358_1898637867295668_8269182902459975419_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469125713_511069935266141_5766896113879282917_n.jpg"
-    alt: "469125713_511069935266141_5766896113879282917_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469179179_1491566324844935_7504821277726151951_n.jpg"
-    alt: "469179179_1491566324844935_7504821277726151951_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469179659_586177160579121_1414557281049784838_n.jpg"
-    alt: "469179659_586177160579121_1414557281049784838_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469209981_1244882430114738_3156946227104963492_n.jpg"
     alt: "469209981_1244882430114738_3156946227104963492_n.jpg description"
     width: 1440
     height: 2203
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469211378_3858179701136639_6378495255617612299_n.jpg"
-    alt: "469211378_3858179701136639_6378495255617612299_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469215574_898003655645650_8421409914072893362_n.jpg"
     alt: "469215574_898003655645650_8421409914072893362_n.jpg description"
     width: 1440
@@ -6207,10 +4007,6 @@ images:
     alt: "469494614_18481191265032697_6947943871385257173_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469494852_18481191988032697_988223266905112909_n.jpg"
-    alt: "469494852_18481191988032697_988223266905112909_n.jpg description"
-    width: 1215
-    height: 1518
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469495396_18481204003032697_199432786935211768_n.jpg"
     alt: "469495396_18481204003032697_199432786935211768_n.jpg description"
     width: 1440
@@ -6227,14 +4023,6 @@ images:
     alt: "469511158_18481191256032697_1481509310531708724_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469615297_18481192000032697_394253451922043296_n.jpg"
-    alt: "469615297_18481192000032697_394253451922043296_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/469622399_18481191991032697_6777036181491692144_n.jpg"
-    alt: "469622399_18481191991032697_6777036181491692144_n.jpg description"
-    width: 1215
-    height: 1518
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/66663778_146137799789603_7493703705804756068_n.jpg"
     alt: "66663778_146137799789603_7493703705804756068_n.jpg description"
     width: 1279
