@@ -3,30 +3,6 @@ title: "phuong.anh.17.09"
 categories: instagram
 description: "https://www.instagram.com/phuong.anh.17.09"
 images:
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/100994797_532174910788486_4203823006889708923_n.jpg"
-    alt: "100994797_532174910788486_4203823006889708923_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/101007531_2666427890127750_8155372607686244341_n.jpg"
-    alt: "101007531_2666427890127750_8155372607686244341_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/101043829_556551128392130_8166920647756272021_n.jpg"
-    alt: "101043829_556551128392130_8166920647756272021_n.jpg description"
-    width: 1241
-    height: 1241
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/101081125_1178819249151294_3446085479113893613_n.jpg"
-    alt: "101081125_1178819249151294_3446085479113893613_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/101676156_179863543492087_1951441774962800917_n.jpg"
-    alt: "101676156_179863543492087_1951441774962800917_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/101710822_3501638829865000_358163801316276926_n.jpg"
-    alt: "101710822_3501638829865000_358163801316276926_n.jpg description"
-    width: 1440
-    height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/101802890_306517070358539_3309918186935283667_n.jpg"
     alt: "101802890_306517070358539_3309918186935283667_n.jpg description"
     width: 1440
@@ -327,14 +303,6 @@ images:
     alt: "147407427_2497727377198564_4989691791386912989_n.jpg description"
     width: 1440
     height: 1791
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/148092423_1352614425082269_3826214494181655893_n.jpg"
-    alt: "148092423_1352614425082269_3826214494181655893_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/148476542_529412251359353_7371888864243146251_n.jpg"
-    alt: "148476542_529412251359353_7371888864243146251_n.jpg description"
-    width: 1440
-    height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/151358815_784438042163775_2249249312055736634_n.jpg"
     alt: "151358815_784438042163775_2249249312055736634_n.jpg description"
     width: 1440
@@ -4027,28 +3995,4 @@ images:
     alt: "66663778_146137799789603_7493703705804756068_n.jpg description"
     width: 1279
     height: 1599
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/68910912_377736996470224_3196893157223085474_n.jpg"
-    alt: "68910912_377736996470224_3196893157223085474_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/69875301_169364027533692_2243796665832550274_n.jpg"
-    alt: "69875301_169364027533692_2243796665832550274_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/70289969_3029732797069048_3191622659175827026_n.jpg"
-    alt: "70289969_3029732797069048_3191622659175827026_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/71227669_528369911073184_8463063168845808243_n.jpg"
-    alt: "71227669_528369911073184_8463063168845808243_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/81138124_176457530413381_8888902182924105712_n.jpg"
-    alt: "81138124_176457530413381_8888902182924105712_n.jpg description"
-    width: 1440
-    height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/phuong.anh.17.09/image/83889207_628429907967076_8814419728584104588_n.jpg"
-    alt: "83889207_628429907967076_8814419728584104588_n.jpg description"
-    width: 1440
-    height: 1440
 ---

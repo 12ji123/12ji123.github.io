@@ -19,10 +19,6 @@ images:
     alt: "434931277_122121424706239867_6957747577099785275_n.jpg description"
     width: 1536
     height: 2048
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/434958374_122121424688239867_3837463873387067347_n.jpg"
-    alt: "434958374_122121424688239867_3837463873387067347_n.jpg description"
-    width: 1536
-    height: 2048
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/438173401_122137816172239867_7266436070580077733_n.jpg"
     alt: "438173401_122137816172239867_7266436070580077733_n.jpg description"
     width: 1080
@@ -55,10 +51,6 @@ images:
     alt: "466845296_122181983732239867_5369880176348619897_n.jpg description"
     width: 1080
     height: 1440
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/466899029_122181984230239867_2057799813618756329_n.jpg"
-    alt: "466899029_122181984230239867_2057799813618756329_n.jpg description"
-    width: 1080
-    height: 1080
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/466927945_122181983288239867_3635018950947800605_n.jpg"
     alt: "466927945_122181983288239867_3635018950947800605_n.jpg description"
     width: 1080
@@ -127,10 +119,6 @@ images:
     alt: "467307249_122181983822239867_8560902708028620099_n.jpg description"
     width: 1080
     height: 1442
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/467454248_438897252341268_1492784782276442655_n.jpg"
-    alt: "467454248_438897252341268_1492784782276442655_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/467540282_440276492449837_7049077813870121247_n.jpg"
     alt: "467540282_440276492449837_7049077813870121247_n.jpg description"
     width: 1440
@@ -163,50 +151,14 @@ images:
     alt: "467762938_3594571227507721_4298525141983992090_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/467762982_17868380385250434_4597207589996588005_n.jpg"
-    alt: "467762982_17868380385250434_4597207589996588005_n.jpg description"
-    width: 576
-    height: 1024
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/467763707_599229239378527_7274470495064244169_n.jpg"
-    alt: "467763707_599229239378527_7274470495064244169_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/467767195_1098947305288181_8380119914890751731_n.jpg"
-    alt: "467767195_1098947305288181_8380119914890751731_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/467896334_17868486849250434_1158792727303959219_n.jpg"
-    alt: "467896334_17868486849250434_1158792727303959219_n.jpg description"
-    width: 576
-    height: 1024
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/467906133_1091069369306427_984565792974467161_n.jpg"
-    alt: "467906133_1091069369306427_984565792974467161_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/467967298_1634817143915037_3521180426620297574_n.jpg"
-    alt: "467967298_1634817143915037_3521180426620297574_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468012077_1552642335613926_4311958921606102998_n.jpg"
-    alt: "468012077_1552642335613926_4311958921606102998_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468017905_522488174113191_4046236778564493466_n.jpg"
     alt: "468017905_522488174113191_4046236778564493466_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468021988_3834903643464852_4915369839015212708_n.jpg"
-    alt: "468021988_3834903643464852_4915369839015212708_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468026587_546528431339134_7669776196167291824_n.jpg"
     alt: "468026587_546528431339134_7669776196167291824_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468027413_17868610758250434_1417469748226887877_n.jpg"
-    alt: "468027413_17868610758250434_1417469748226887877_n.jpg description"
-    width: 576
-    height: 1024
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468032276_1097380191935443_579097602879248166_n.jpg"
     alt: "468032276_1097380191935443_579097602879248166_n.jpg description"
     width: 1440
@@ -215,18 +167,10 @@ images:
     alt: "468033928_17868649719250434_4647919673130656679_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468160642_1237235924248434_775620908917754007_n.jpg"
-    alt: "468160642_1237235924248434_775620908917754007_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468191443_1327730648213990_2887438944628981405_n.jpg"
     alt: "468191443_1327730648213990_2887438944628981405_n.jpg description"
     width: 1440
     height: 1920
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468206805_17868744816250434_2708915776065245340_n.jpg"
-    alt: "468206805_17868744816250434_2708915776065245340_n.jpg description"
-    width: 1440
-    height: 1440
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468212318_17868888297250434_1238082004209725885_n.jpg"
     alt: "468212318_17868888297250434_1238082004209725885_n.jpg description"
     width: 1440
@@ -235,10 +179,6 @@ images:
     alt: "468254299_17870650083250434_4488184337559479748_n.jpg description"
     width: 720
     height: 1280
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468259715_17868744825250434_3190814643213923029_n.jpg"
-    alt: "468259715_17868744825250434_3190814643213923029_n.jpg description"
-    width: 1440
-    height: 1439
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468270312_17868831714250434_5855509289051578771_n.jpg"
     alt: "468270312_17868831714250434_5855509289051578771_n.jpg description"
     width: 1440
@@ -255,10 +195,6 @@ images:
     alt: "468409935_17869027728250434_3027501811680054541_n.jpg description"
     width: 1440
     height: 1799
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468417404_1801232423964891_6634909717831584635_n.jpg"
-    alt: "468417404_1801232423964891_6634909717831584635_n.jpg description"
-    width: 1440
-    height: 1920
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468436081_17869013274250434_8639480017945206320_n.jpg"
     alt: "468436081_17869013274250434_8639480017945206320_n.jpg description"
     width: 1345
@@ -331,14 +267,6 @@ images:
     alt: "468815674_17869699566250434_8893328212737997807_n.jpg description"
     width: 720
     height: 1280
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468956354_17869989480250434_4067730245110091959_n.jpg"
-    alt: "468956354_17869989480250434_4067730245110091959_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468957883_17869989489250434_699001009152512534_n.jpg"
-    alt: "468957883_17869989489250434_699001009152512534_n.jpg description"
-    width: 1440
-    height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/468960858_17869685724250434_8914373900192684610_n.jpg"
     alt: "468960858_17869685724250434_8914373900192684610_n.jpg description"
     width: 1440
@@ -355,26 +283,10 @@ images:
     alt: "469043984_17869989501250434_5012920579619713916_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/469111621_17869834869250434_8074062922060671487_n.jpg"
-    alt: "469111621_17869834869250434_8074062922060671487_n.jpg description"
-    width: 1440
-    height: 1440
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/469120824_17869834887250434_5038127178871487730_n.jpg"
-    alt: "469120824_17869834887250434_5038127178871487730_n.jpg description"
-    width: 1440
-    height: 1440
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/469122358_17870024559250434_6835746659566353444_n.jpg"
     alt: "469122358_17870024559250434_6835746659566353444_n.jpg description"
     width: 1440
     height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/469158272_17870242938250434_5019683563999108575_n.jpg"
-    alt: "469158272_17870242938250434_5019683563999108575_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/469199920_17869834878250434_6624421556611254866_n.jpg"
-    alt: "469199920_17869834878250434_6624421556611254866_n.jpg description"
-    width: 1440
-    height: 1440
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/469201975_17870024577250434_8181815457378287895_n.jpg"
     alt: "469201975_17870024577250434_8181815457378287895_n.jpg description"
     width: 1440
@@ -389,14 +301,6 @@ images:
     height: 1799
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/469223622_17870373852250434_2523375224519687166_n.jpg"
     alt: "469223622_17870373852250434_2523375224519687166_n.jpg description"
-    width: 1440
-    height: 1800
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/469243918_17870244906250434_6723922933664055707_n.jpg"
-    alt: "469243918_17870244906250434_6723922933664055707_n.jpg description"
-    width: 1070
-    height: 1902
-  - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/469270733_17870373834250434_975196893775165080_n.jpg"
-    alt: "469270733_17870373834250434_975196893775165080_n.jpg description"
     width: 1440
     height: 1800
   - url: "https://gitlab.com/kal59507254/123123/-/raw/main/public/_nhunguyet2k/image/469293264_17870510682250434_4086449854887600985_n.jpg"
